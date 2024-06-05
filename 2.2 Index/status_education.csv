@@ -1,0 +1,555 @@
+,Name,Neighborhood Name,Status
+0,Escola Poeta Foix,Sarrià-Sant Gervasi,public
+1,Escola Arc Iris,Horta-Guinardó,public
+2,Escola Baixeras,Ciutat Vella,public
+3,Escola Parc de la Ciutadella,Ciutat Vella,public
+4,Escola Mossèn Jacint Verdaguer,Sants-Montjuïc,public
+5,Escola De Bosc de Montjuïc,Sants-Montjuïc,public
+6,Escola Ramon Llull,Eixample,public
+7,Escola Cervantes,Ciutat Vella,public
+8,Escola Collaso i Gil,Ciutat Vella,public
+9,Escola Milà i Fontanals,Ciutat Vella,public
+10,Escola Castella,Ciutat Vella,public
+11,Escola Drassanes,Ciutat Vella,public
+12,Escola Rubén Darío,Ciutat Vella,public
+13,Escola Fort Pienc,Eixample,public
+14,Escola Poble-sec,Sants-Montjuïc,public
+15,Escola Tres Pins,Sants-Montjuïc,public
+16,Escola La Sedeta,Gràcia,public
+17,Escola Baró de Viver,Sant Andreu,public
+18,Escola Tomàs Moro,Nou Barris,public
+19,Escola Elisenda de Montcada,Nou Barris,public
+20,Escola Mestre Morera,Nou Barris,public
+21,Escola Ferrer i Guàrdia,Nou Barris,public
+22,Escola Bernat de Boïl,Sant Andreu,public
+23,Escola Calderón de la Barca,Nou Barris,public
+24,Escola El Turó,Nou Barris,public
+25,Escola Fluvià,Sant Martí,public
+26,Escola Concepción Arenal,Sant Martí,public
+27,Escola Eduard Marquina,Sant Martí,public
+28,Escola Prim,Sant Martí,public
+29,Escola Joaquim Ruyra,Sant Martí,public
+30,Escola Mas Casanovas,Horta-Guinardó,public
+31,Escola Àgora,Nou Barris,public
+32,Escola Miralletes,Sant Martí,public
+33,Escola Francesc Macià,Sants-Montjuïc,public
+34,Escola Miquel Bleach,Sants-Montjuïc,public
+35,Escola Pau Casals-Gràcia,Gràcia,public
+36,Escola Pere Vila,Eixample,public
+37,Escola de la Concepció,Eixample,public
+38,Escola Cavall Bernat,Sants-Montjuïc,public
+39,Inst-Esc Art. Oriol Martorell,Nou Barris,public
+40,Escola Sagrada Família,Gràcia,public
+41,Escola La Maquinista,Sant Andreu,public
+42,Escola Pau Romeva,Les Corts,public
+43,Escola Antoni Balmanya,Sant Martí,public
+44,Escola Baldiri Reixac,Gràcia,public
+45,Escola Jovellanos,Horta-Guinardó,public
+46,Escola Dovella,Sant Martí,public
+47,Escola El Carmel,Horta-Guinardó,public
+48,Escola La Muntanyeta,Sants-Montjuïc,public
+49,Escola Pau Vila,Sants-Montjuïc,public
+50,Escola Carlit,Eixample,public
+51,Escola El Polvorí,Sants-Montjuïc,public
+52,Escola Rambleta del Clot,Sant Martí,public
+53,Escola Can Clos,Sants-Montjuïc,public
+54,Escola Enric Granados,Sants-Montjuïc,public
+55,Escola Ramon Casas,Sants-Montjuïc,public
+56,Escola Bàrkeno,Sants-Montjuïc,public
+57,Escola Casas,Sant Martí,public
+58,Escola Ausiàs March,Les Corts,public
+59,Escola Turó del Cargol,Gràcia,public
+60,Escola Reina Violant-Comas i Solà,Gràcia,public
+61,Escola Marinada,Nou Barris,public
+62,Escola Tibidabo,Nou Barris,public
+63,Escola Víctor Català,Nou Barris,public
+64,Escola Prosperitat,Nou Barris,public
+65,Escola Doctor Ferran i Clua,Sant Andreu,public
+66,Escola Coves d'en Cimany,Horta-Guinardó,public
+67,Escola La Farigola del Clot,Sant Martí,public
+68,Escola La Mar Bella,Sant Martí,public
+69,Escola Pompeu Fabra,Sant Andreu,public
+70,Escola Pegaso,Sant Andreu,public
+71,Escola Els Llorers,Eixample,public
+72,Escola L'Estel,Sant Andreu,public
+73,Escola El Sagrer,Sant Andreu,public
+74,Escola Santiago Rusiñol,Nou Barris,public
+75,Escola Taxonera,Horta-Guinardó,public
+76,Escola Congrés-Indians,Sant Andreu,public
+77,Escola Mercè Rodoreda,Nou Barris,public
+78,Escola Ramón y Cajal,Sant Andreu,public
+79,Escola Sant Jordi,Nou Barris,public
+80,Escola Joan Miró,Eixample,public
+81,Escola Les Acàcies,Sant Martí,public
+82,Escola Auró,Eixample,public
+83,Escola Vila Olímpica,Sant Martí,public
+84,Escola L'Arenal de Llevant,Sant Martí,public
+85,Escola Pere IV,Sant Martí,public
+86,Escola Duran i Bas,Les Corts,public
+87,Escola Sant Josep Oriol,Nou Barris,public
+88,Escola Seat,Sants-Montjuïc,public
+89,Escola Tabor,Eixample,public
+90,Escola Fructuós Gelabert,Eixample,public
+91,Escola del Mar,Horta-Guinardó,public
+92,Escola dels Encants,Eixample,public
+93,Escola Parc del Guinardó,Horta-Guinardó,public
+94,Escola Mallorca,Eixample,public
+95,Escola Patronat Domènech,Gràcia,public
+96,Escola Sant Martí,Sant Martí,public
+97,Escola Torrent d'en Melis,Horta-Guinardó,public
+98,Escola Antaviana,Nou Barris,public
+99,Escola Estel-Guinardó,Horta-Guinardó,public
+100,Escola Cal Maiol,Sants-Montjuïc,public
+101,Escola Ramon Berenguer III,Sant Andreu,public
+102,Escola Emili Juncadella,Sant Andreu,public
+103,Escola La Llacuna del Poblenou,Sant Martí,public
+104,Institut Escola Turó de Roquetes,Nou Barris,public
+105,Escola L'Arc de Sant Martí,Sant Martí,public
+106,Escola Josep Maria Jujol,Gràcia,public
+107,Escola Mare Nostrum,Horta-Guinardó,public
+108,Escola l'Univers,Gràcia,public
+109,Escola Rius i Taulet,Gràcia,public
+110,Escola La Pau,Sant Martí,public
+111,Escola Barcelona,Les Corts,public
+112,Escola Les Corts,Les Corts,public
+113,Escola Ítaca,Les Corts,public
+114,Escola Pràctiques,Sants-Montjuïc,public
+115,Escola Jaume I,Sants-Montjuïc,public
+116,Escola Octavio Paz,Sant Andreu,public
+117,Escola Font d'en Fargas,Horta-Guinardó,public
+118,Escola Sant Pere Nolasc,Sant Andreu,public
+119,Escola Lavínia,Les Corts,public
+120,Escola Palma de Mallorca,Nou Barris,public
+121,Escola Splai,Nou Barris,public
+122,Escola Gayarre,Sants-Montjuïc,public
+123,Escola Els Horts,Sant Martí,public
+124,Escola La Palmera,Sant Martí,public
+125,Escola Antoni Brusi,Sant Martí,public
+126,Escola Ciutat Comtal,Nou Barris,public
+127,Escola Àngels Garriga,Horta-Guinardó,public
+128,Escola Aiguamarina,Nou Barris,public
+129,Escola Turó Blau,Sant Andreu,public
+130,Escola Dolors Monserdà-Santapau,Sarrià-Sant Gervasi,public
+131,Escola Alexandre Galí,Ciutat Vella,public
+132,Escola Bogatell,Sant Martí,public
+133,Escola Poblenou,Sant Martí,public
+134,Escola Pit-Roig,Horta-Guinardó,public
+135,Escola La Farigola de Vallcarca,Gràcia,public
+136,Escola Heura,Horta-Guinardó,public
+137,Escola Torrent de Can Carabassa,Horta-Guinardó,public
+138,Escola Brasil,Sant Martí,public
+139,Escola Barrufet,Sants-Montjuïc,public
+140,Escola Montseny,Gràcia,public
+141,Escola Catalònia,Sant Martí,public
+142,Escola Josep Maria de Sagarra,Gràcia,public
+143,Escola Ignasi Iglésias,Sant Andreu,public
+144,Escola Pau Casals,Horta-Guinardó,public
+145,Escola Pare Poveda,Gràcia,public
+146,Escola Orlandai,Sarrià-Sant Gervasi,public
+147,Escola Tàber,Sarrià-Sant Gervasi,public
+148,Escola Els Pins,Horta-Guinardó,public
+149,Escola Provençals,Sant Martí,public
+150,Escola Els Porxos,Sant Martí,public
+151,Escola Baloo,Horta-Guinardó,public
+152,Escola Bac de Roda,Sant Martí,public
+153,Escola Mare de Déu de Montserrat,Horta-Guinardó,public
+154,Escola Lluís Vives,Sants-Montjuïc,public
+155,Institut Escola Costa i Llobera,Sarrià-Sant Gervasi,public
+156,Escola Timbaler del Bruc,Nou Barris,public
+157,Escola Mediterrània,Ciutat Vella,public
+158,Escola Els Xiprers,Sarrià-Sant Gervasi,public
+159,Escola La Caixa,Sant Martí,public
+160,Escola Nabí,Sarrià-Sant Gervasi,public
+161,Escola Ferran Sunyer,Eixample,public
+162,Escola Mestre Enric Gibert i Camins,Sant Andreu,public
+163,Escola Eulàlia Bota,Sant Andreu,public
+164,Escola Diputació,Ciutat Vella,public
+165,Escola Can Fabra,Sant Andreu,public
+166,Anna Ravell,Sants-Montjuïc,charter
+167,Lys,Sarrià-Sant Gervasi,charter
+168,Mireia,Eixample,charter
+169,Sagrado Corazón,Eixample,charter
+170,Sant Pere Claver,Sants-Montjuïc,charter
+171,Sant Francesc Xavier,Sants-Montjuïc,charter
+172,Sant Josep-Teresianes,Gràcia,charter
+173,Acis-Artur Martorell,Horta-Guinardó,charter
+174,Claret,Gràcia,charter
+175,L'Esperança,Sant Andreu,charter
+176,Mare Alfonsa Cavín,Nou Barris,charter
+177,Amor de Dios,Nou Barris,charter
+178,Bon Pastor,Sant Andreu,charter
+179,Grèvol,Sant Martí,charter
+180,Montseny-Poblenou,Sant Martí,charter
+181,Sant Ramon Nonat,Les Corts,charter
+182,Sant Ramon Nonat-Sagrat Cor,Les Corts,charter
+183,Santa Maria dels Apòstols,Sant Martí,charter
+184,Sant Gabriel,Sant Martí,charter
+185,Jesús Maria,Nou Barris,charter
+186,Grey,Nou Barris,charter
+187,Sagrat Cor Besòs,Sant Martí,charter
+188,Sagrada Família,Ciutat Vella,charter
+189,Sant Joan Baptista,Ciutat Vella,charter
+190,Sant Felip Neri,Ciutat Vella,charter
+191,Sant Vicenç de Paül,Sants-Montjuïc,charter
+192,Santa Anna-Eixample,Eixample,charter
+193,Joan Pelegrí,Sants-Montjuïc,charter
+194,Proa,Sants-Montjuïc,charter
+195,Sant Medir,Sants-Montjuïc,charter
+196,Madres Concepcionistas de la Enseñanza,Sarrià-Sant Gervasi,charter
+197,Roig Tesalia,Horta-Guinardó,charter
+198,Santa Teresa - Ganduxer,Sarrià-Sant Gervasi,charter
+199,Palcam,Horta-Guinardó,charter
+200,Santa Dorotea,Sarrià-Sant Gervasi,charter
+201,Mary Ward,Sarrià-Sant Gervasi,charter
+202,Nostra Senyora de Lurdes,Sarrià-Sant Gervasi,charter
+203,Mare del Diví Pastor,Eixample,charter
+204,Escolàpies Sant Martí - Barcelona,Sant Martí,charter
+205,Nausica,Sarrià-Sant Gervasi,charter
+206,Infant Jesús,Sarrià-Sant Gervasi,charter
+207,Escola Pia Balmes,Sarrià-Sant Gervasi,charter
+208,Sant Joan de Déu-Hospital Sant Joan de Déu,Les Corts,charter
+209,Mare de Déu de Núria,Sant Martí,charter
+210,Augusta,Sarrià-Sant Gervasi,charter
+211,La Salle Bonanova,Sarrià-Sant Gervasi,charter
+212,Canigó,Sarrià-Sant Gervasi,charter
+213,Sil,Sarrià-Sant Gervasi,charter
+214,Sant Gregori,Sarrià-Sant Gervasi,charter
+215,Mare de Déu del Coll,Gràcia,charter
+216,Escola Pia de Sarrià-Calassanç,Sarrià-Sant Gervasi,charter
+217,Decroly,Sarrià-Sant Gervasi,charter
+218,Jesús i Maria,Sarrià-Sant Gervasi,charter
+219,Lleó XIII,Sarrià-Sant Gervasi,charter
+220,Abat Oliba-Spínola,Horta-Guinardó,charter
+221,La Salle Comtal,Ciutat Vella,charter
+222,Casp-Sagrat Cor de Jesús,Eixample,charter
+223,Sagrat Cor-Diputació,Eixample,charter
+224,Escolàpies Llúria-Barcelona,Eixample,charter
+225,Jesuïtes Gràcia - Kostka,Gràcia,charter
+226,Reina Elisenda,Gràcia,charter
+227,Lestonnac,Eixample,charter
+228,Dominiques de l'Ensenyament de Barcelona,Eixample,charter
+229,Frederic Mistral-Tècnic Eulàlia,Sarrià-Sant Gervasi,charter
+230,La Merced,Eixample,charter
+231,Maristes La Immaculada,Eixample,charter
+232,Shalom,Eixample,charter
+233,Immaculada Concepció Barcelona,Eixample,charter
+234,Vedruna Àngels,Ciutat Vella,charter
+235,Magòria,Sants-Montjuïc,charter
+236,Labouré,Ciutat Vella,charter
+237,Escola Pia Sant Antoni,Ciutat Vella,charter
+238,Alfageme,Sants-Montjuïc,charter
+239,John Talabot,Sarrià-Sant Gervasi,charter
+240,Centre Educatiu Projecte,Sarrià-Sant Gervasi,charter
+241,Virolai,Horta-Guinardó,charter
+242,Vedruna-Gràcia,Gràcia,charter
+243,Sant Josep,Gràcia,charter
+244,La Salle Gràcia,Gràcia,charter
+245,Arrels,Sant Andreu,charter
+246,Sant Lluís,Nou Barris,charter
+247,Santa Teresa de Jesús,Horta-Guinardó,charter
+248,Ramon Llull,Sant Andreu,charter
+249,Piaget,Horta-Guinardó,charter
+250,Valldaura,Nou Barris,charter
+251,El Clot,Sant Martí,charter
+252,Mare de Déu dels Àngels,Sant Andreu,charter
+253,Garbiñe,Sants-Montjuïc,charter
+254,IPSI,Eixample,charter
+255,Urgell,Eixample,charter
+256,Voramar,Sant Martí,charter
+257,Asunción de Nuestra Señora,Sant Martí,charter
+258,Marillac,Eixample,charter
+259,Santísima Trinidad,Sant Andreu,charter
+260,Maristes Sants - les Corts,Les Corts,charter
+261,Santa Teresa de Lisieux,Les Corts,charter
+262,Vedruna Immaculada,Eixample,charter
+263,Pare Manyanet,Les Corts,charter
+264,Guinardó,Horta-Guinardó,charter
+265,Castro  de la Peña,Horta-Guinardó,charter
+266,Nou Patufet,Gràcia,charter
+267,IPSE,Eixample,charter
+268,Providencia del Corazón de Jesús,Horta-Guinardó,charter
+269,Mare de Déu del Roser,Eixample,charter
+270,FEDAC-Horta,Horta-Guinardó,charter
+271,La Salle Horta,Horta-Guinardó,charter
+272,Regina Carmeli,Horta-Guinardó,charter
+273,Joan Roca 1953,Sant Andreu,charter
+274,Immaculada Concepció,Horta-Guinardó,charter
+275,L'Horitzó,Sarrià-Sant Gervasi,charter
+276,Sant Josep Oriol,Eixample,charter
+277,Sant Miquel,Eixample,charter
+278,Thau,Les Corts,charter
+279,Sant Pau,Les Corts,charter
+280,Aloma,Nou Barris,charter
+281,Sagrada Família,Sant Andreu,charter
+282,Jesús Maria,Sant Andreu,charter
+283,Nostra Senyora del Carme,Sants-Montjuïc,charter
+284,FEDAC-Sant Andreu,Sant Andreu,charter
+285,Sagrada Família,Eixample,charter
+286,Sagrada Família-Horta,Horta-Guinardó,charter
+287,Escola Pia-Luz Casanova,Nou Barris,charter
+288,Sant Marc de Sarrià,Sarrià-Sant Gervasi,charter
+289,Sant Ignasi,Sarrià-Sant Gervasi,charter
+290,Sagrado Corazón,Sarrià-Sant Gervasi,charter
+291,Abat Oliba-Loreto,Les Corts,charter
+292,Lloret,Sants-Montjuïc,charter
+293,"Jesús, Maria i Josep",Sant Andreu,charter
+294,Prínceps 23 d'Abril,Nou Barris,charter
+295,Betània-Patmos,Sarrià-Sant Gervasi,charter
+296,Reial Monestir de Santa Isabel,Sarrià-Sant Gervasi,charter
+297,Sagrat Cor-Sarrià,Sarrià-Sant Gervasi,charter
+298,Sant Joan Bosco,Horta-Guinardó,charter
+299,Montserrat,Sants-Montjuïc,charter
+300,Peter Pan,Sarrià-Sant Gervasi,charter
+301,Montserrat,Sarrià-Sant Gervasi,charter
+302,Miró,Sant Martí,charter
+303,Mare de Déu de la Soledat,Sant Andreu,charter
+304,Sagrat Cor,Eixample,charter
+305,Padre Damián Sagrados Corazones,Sarrià-Sant Gervasi,charter
+306,Sadako,Gràcia,charter
+307,Josep Tous,Sants-Montjuïc,charter
+308,Sant Ferran,Nou Barris,charter
+309,San Rafael,Sant Martí,charter
+310,Verns,Sant Martí,charter
+311,Solc,Les Corts,charter
+312,Salesià de Sant Josep,Eixample,charter
+313,Maria Auxiliadora,Eixample,charter
+314,Griselda,Eixample,charter
+315,FEDAC-Amilcar,Nou Barris,charter
+316,Cor de Maria-Sabastida,Nou Barris,charter
+317,Gravi,Gràcia,charter
+318,Hospital de la Sta Creu i S. Pau (Esc.per infants),Horta-Guinardó,charter
+319,Mare de Déu del Roser Les Planes,Sarrià-Sant Gervasi,charter
+320,San Francisco,Sant Martí,charter
+321,Adela de Trenquelleón,Sant Martí,charter
+322,Closa,Nou Barris,charter
+323,Laia,Sant Andreu,charter
+324,Sant Francesc d'Assís,Eixample,charter
+325,Camí II,Nou Barris,charter
+326,Joan Roca Guipúzcoa,Sant Martí,charter
+327,Sagrat Cor de Sarrià,Sarrià-Sant Gervasi,charter
+328,Benjamin Franklin Internacional School,Sarrià-Sant Gervasi,private
+329,Escola Casa Nostra,Sarrià-Sant Gervasi,private
+330,Escola Perez Iborra,Eixample,private
+331,Santa Clara International School,Sarrià-Sant Gervasi,private
+332,St. Peter's School Barcelona,Pedralbes,private
+333,Princess Margaret School,Horta-Guinardó,private
+334,Zürich Schule Barcelona,Pedralbes,private
+335,English Academy Santa Claus,Sarrià-Sant Gervasi,private
+336,Kensington School Barcelona,Pedralbes,private
+337,École Française Ferdinand de Lesseps,Eixample,private
+338,Escuela Suiza de Barcelona,Gràcia,private
+339,Istituto Italiano Statale Comprensivo,Eixample,private
+340,Lyceé Français de Barcelone,Pedralbes,private
+341,Oak House British School,Sarrià-Sant Gervasi,private
+342,St.George's School - The British School of Catalunya,Sarrià-Sant Gervasi,private
+343,Molina,Nou Barris,charter
+344,Súnion,Sarrià-Sant Gervasi,charter
+345,Els Arcs,Sarrià-Sant Gervasi,charter
+346,Escola Pia de Nostra Senyora,Eixample,charter
+347,Cintra,Ciutat Vella,charter
+348,Monlau,Sant Andreu,charter
+349,Roca,Sant Andreu,charter
+350,Santíssima Trinitat,Les Corts,charter
+351,Oscus,Sants-Montjuïc,charter
+352,Aula Escola Europea,Sarrià-Sant Gervasi,private
+353,Granés Batxillerat,Eixample,private
+354,CIC Escola Batxillerats,Sant Gervasi - la Bonanova,private
+355,Fert Batxillerat,Sarrià-Sant Gervasi,private
+356,Escola Entença,Eixample,public
+357,Escola La Sagrera,Sant Andreu,public
+358,Jesús Maria,Sants-Montjuïc,charter
+359,Grimm,Sant Martí,charter
+360,L'Esclop-Passeig,Eixample,charter
+361,Magnòlia,Nou Barris,charter
+362,Carles Riba,Sarrià-Sant Gervasi,charter
+363,El Petit Santa Maria,Sant Martí,charter
+364,Mafalda II,Sant Martí,charter
+365,Aula Escola Europea,Sarrià-Sant Gervasi,charter
+366,Escola Bressol Municipal El Tren de Fort Pienc,Eixample,public
+367,Escola Bressol Municipal Cobi,el Poblenou,public
+368,Escola Bressol Municipal La Mar Xica,el Poblenou,public
+369,Escola Bressol Municipal El Xalet de la Paperera,el Poblenou,public
+370,Escola Bressol Municipal L'Aliança,el Poblenou,public
+371,Escola Bressol Municipal Júpiter,el Poblenou,public
+372,Escola Bressol Municipal Diagonal Mar,Diagonal Mar i el Front Marítim del Poblenou,public
+373,Escola Bressol Municipal La Mar,la Barceloneta,public
+374,Escola Bressol Municipal El Bressol del Poblenou,el Poblenou,public
+375,Escola Bressol Municipal Dolors Canals,el Poblenou,public
+376,Escola Bressol Municipal El Clot de la Mel,Sant Martí,public
+377,Escola Bressol Municipal La Farinera,el Clot,public
+378,Escola Bressol Municipal Leonor Serrano,Eixample,public
+379,Escola Bressol Municipal L'Estació,Sant Martí,public
+380,Escola Bressol Municipal Esquitx,Sant Martí,public
+381,Escola Bressol Municipal Margalló,Sant Martí,public
+382,Escola Bressol Municipal La Verneda de Sant Martí,Sant Martí,public
+383,Escola Bressol Municipal El Gronxador,Sant Martí,public
+384,Llar d'Infants El Vuit,Sant Martí,public
+385,Escola Bressol Municipal El Petit Príncep,el Camp de l'Arpa del Clot,public
+386,Escola Bressol Municipal Els Patufets de Navas,Navas,public
+387,Escola Bressol Municipal Camp de l'Arpa,el Camp de l'Arpa del Clot,public
+388,Escola Bressol Municipal Icària,la Sagrera,public
+389,Escola Bressol Municipal Guinardó,Horta-Guinardó,public
+390,Escola Bressol Municipal Montserrat,Horta-Guinardó,public
+391,Escola Bressol Municipal Manigua,Sant Andreu,public
+392,Escola Bressol Municipal La Morera,Sant Andreu,public
+393,Escola Bressol Municipal El Parc de la Pegaso,Sant Andreu,public
+394,Escola Bressol Municipal La Filadora,Sant Andreu,public
+395,Llar d'Infants El Mar,Sant Andreu,public
+396,Escola Bressol Municipal El Palomar,Sant Andreu,public
+397,Escola Bressol Municipal Les Quatre Torres,Sant Andreu,public
+398,Escola Bressol Municipal El Caminet del Besòs,Sant Andreu,public
+399,Escola Bressol Municipal El Tren,la Trinitat Nova,public
+400,Escola Bressol Municipal Colometa,Nou Barris,public
+401,Escola Bressol Municipal Ralet,Nou Barris,public
+402,Escola Bressol Municipal Trinitat Nova,la Trinitat Nova,public
+403,Llar d'Infants L'Airet *Pedrosa,la Trinitat Nova,public
+404,Escola Bressol Municipal La Muntanya,Torre Baró,public
+405,Escola Bressol Municipal Aqüeducte,Nou Barris,public
+406,Escola Bressol Municipal Pla de Fornells,Nou Barris,public
+407,Escola Bressol Municipal El Torrent,Nou Barris,public
+408,Escola Bressol Municipal L'Argimon,Nou Barris,public
+409,Escola Bressol Municipal Nenes i Nens,Nou Barris,public
+410,Escola Bressol Municipal El Vent,Nou Barris,public
+411,Escola Bressol Municipal Can Dragó,Nou Barris,public
+412,Escola Bressol Municipal Ciutat de Mallorca,Nou Barris,public
+413,Escola Bressol Municipal Turó,Nou Barris,public
+414,Escola Bressol Municipal Cargol,Horta-Guinardó,public
+415,Escola Bressol Municipal Tres Turons,Horta-Guinardó,public
+416,Escola Bressol Municipal Tris-Tras,Horta-Guinardó,public
+417,Escola Bressol Municipal Albí,Horta-Guinardó,public
+418,Escola Bressol Municipal Xarlot,Horta-Guinardó,public
+419,Escola Bressol Municipal L'Arquet,la Vall d'Hebron,public
+420,Escola Bressol Municipal Valldaura,Horta-Guinardó,public
+421,Escola Bressol Municipal Llar d'Infants,Horta-Guinardó,public
+422,Escola Bressol Municipal L'Arboç,la Vall d'Hebron,public
+423,Escola Bressol Municipal L'Harmonia,la Vall d'Hebron,public
+424,Escola Bressol Municipal Sant Genís,Horta-Guinardó,public
+425,Escola Bressol Municipal Galatea,Gràcia,public
+426,Escola Bressol Municipal El Tramvia Blau,Sarrià-Sant Gervasi,public
+427,Escola Bressol Municipal El Putget,Sarrià-Sant Gervasi,public
+428,Escola Bressol Municipal Gràcia,Gràcia,public
+429,Escola Bressol Municipal Trencadís,Gràcia,public
+430,Escola Bressol Municipal Sant Medir,Gràcia,public
+431,Escola Bressol Municipal La Fontana,Gràcia,public
+432,Escola Bressol Municipal Enxaneta,Gràcia,public
+433,Escola Bressol Municipal Caspolino,Gràcia,public
+434,Escola Bressol Municipal Petit Univers,Gràcia,public
+435,Escola Bressol Municipal Marina,Horta-Guinardó,public
+436,Escola Bressol Municipal Barrufets,Eixample,public
+437,Escola Bressol Municipal La Fassina,Eixample,public
+438,Escola Bressol Municipal Casa dels Nens,Eixample,public
+439,Escola Bressol Municipal Portal Nou,Ciutat Vella,public
+440,Escola Bressol Municipal Puigmal,Ciutat Vella,public
+441,Escola Bressol Municipal Carabassa,Ciutat Vella,public
+442,Escola Bressol Municipal Cadí,Ciutat Vella,public
+443,Escola Bressol Municipal Mont Tàber,Ciutat Vella,public
+444,Escola Bressol Municipal Aurora,Ciutat Vella,public
+445,Escola Bressol Municipal Canigó,Ciutat Vella,public
+446,Escola Bressol Municipal Els Tres Tombs,Eixample,public
+447,Escola Bressol Municipal L'Arbret de L'Eixample,Eixample,public
+448,Escola Bressol Municipal El Roure,Eixample,public
+449,Escola Bressol Municipal Londres,Eixample,public
+450,Escola Bressol Municipal Can Canet,Sarrià-Sant Gervasi,public
+451,Escola Bressol Municipal L'Oreneta,Sarrià-Sant Gervasi,public
+452,Escola Bressol Municipal Can Caralleu,Sarrià-Sant Gervasi,public
+453,Escola Bressol Municipal La Puput,Sarrià-Sant Gervasi,public
+454,Escola Bressol Municipal Xiroi,Les Corts,public
+455,Escola Bressol Municipal Can Bruixa,Les Corts,public
+456,Escola Bressol Municipal Can Novell,Les Corts,public
+457,Escola Bressol Municipal Can Bacardí,Les Corts,public
+458,Escola Bressol Municipal El Timbal,Sants-Montjuïc,public
+459,Escola Bressol Municipal El Fil,Sants-Montjuïc,public
+460,Escola Bressol Municipal Pau,Sants-Montjuïc,public
+461,Escola Bressol Municipal L'Esquirol,Sants-Montjuïc,public
+462,Escola Bressol Municipal Guinbó,Sants-Montjuïc,public
+463,Escola Bressol Municipal Bellmunt,Sants-Montjuïc,public
+464,Escola Bressol Municipal Forestier,Sants-Montjuïc,public
+465,Escola Bressol Municipal Nic,Sants-Montjuïc,public
+466,Escola Bressol Municipal Niu d'Infants,Sants-Montjuïc,public
+467,Escola Bressol Municipal Collserola,Sants-Montjuïc,public
+468,Escola Bressol Municipal El Cotxet,Sants-Montjuïc,public
+469,Escola Infantil Ninets,Eixample,private
+470,Escola Bressol Petits,Eixample,private
+471,Guardería La Gavina - Laforja,Gràcia,private
+472,Guardería La Gavina - Marc Aureli,Sarrià-Sant Gervasi,private
+473,Escuela Infantil Zürich Schule,Pedralbes,private
+474,Llar d'infants Xenius,Sarrià-Sant Gervasi,private
+475,Llar d'infants Ter Vint,el Clot,private
+476,Escola Bressol Blauet,Sarrià-Sant Gervasi,private
+477,Escola Infantil Pam i Pipa,Eixample,private
+478,Escuela Infantil Apolo 10,el Poble Sec,private
+479,Guardería Mimos,Horta,private
+480,Guardería Mimos II,Horta-Guinardó,private
+481,Guardería Mimos - Copernic,el Poblenou,private
+482,Llar d'infants Didac,Sants-Montjuïc,private
+483,Llar d'infants Molina Blau,Sant Andreu,private
+484,Llar d'infants Petit Laia,la Sagrera,private
+485,Escuela Infantil Nieró,Sants-Montjuïc,private
+486,Llar d'infants Lua Cascavell,Eixample,private
+487,Escola Bressol Nemomarlin Turó Park,Sarrià-Sant Gervasi,private
+488,Llar d'infants El Cuquet,Eixample,private
+489,Escola Infantil Begònia,Eixample,private
+490,Llar d'infants Santa Elena,Pedralbes,private
+491,Escuela Infantil Nostra Senyora,Sarrià-Sant Gervasi,private
+492,Escuela Infantil Betlem,Eixample,private
+493,Llar d'infants Els Xumets De La Víbria,Ciutat Vella,private
+494,Llar d'infants Santa Isabel - Madre Teresa,Horta,private
+495,Llar d'infants Els Gegants,Sants-Montjuïc,private
+496,Escola Bressol Happy Way - Sant Gervasi,Sarrià-Sant Gervasi,private
+497,Escola Bressol Happy Way - Turó Park,Eixample,private
+498,Escola Bressol Happy Way - Les Corts,Les Corts,private
+499,Llar d'infants Calimero D'Horta,Horta-Guinardó,private
+500,Llar d'infants Balmespi,Gràcia,private
+501,Centro infantil Mima'm,Sant Andreu,private
+502,Llar d'infants L'Ocell de Paper en Poblenou,el Poblenou,private
+503,Escuela Infantil Mainada,Sarrià-Sant Gervasi,private
+504,Llar d'infants Perez Iborra,Eixample,private
+505,Llar d'infants Milton,Eixample,private
+506,Llar d'infants Canigó,Eixample,private
+507,Escola Decroly,Sarrià-Sant Gervasi,private
+508,Llar d'infants Corazón De Jesús,Sarrià-Sant Gervasi,private
+509,Llar d'infants Omicron,Ciutat Vella,private
+510,Llar d'infants El Pomer,Les Corts,private
+511,Llar d'infants Petit Lys,Gràcia,private
+512,Escola Infantil Pandy De Sant Marc,Eixample,private
+513,Llar d'infants Petita Escola,Sarrià-Sant Gervasi,private
+514,Llar d'infants Xumets,Sants-Montjuïc,private
+515,Escola Bressol Donald,el Poblenou,private
+516,Llar d'infants Ratolí,Eixample,private
+517,Llar d'infants El Cuc,Sants-Montjuïc,private
+518,Llar d'infants Chiqui La Vila,el Poblenou,private
+519,Parvulario Nins,Sarrià-Sant Gervasi,private
+520,Llar d'infants Acuarella - Fructuós,Sants-Montjuïc,private
+521,Llar d'infants Acuarella - Melcior,Sants-Montjuïc,private
+522,Llar d'infants Nexe,Gràcia,private
+523,Escola Infantil Peggy,Sarrià-Sant Gervasi,private
+524,Llar d'infants Drac Xic,Eixample,private
+525,Llar d'infants Copèrnic,Sarrià-Sant Gervasi,private
+526,Guardería Oak House School,Sarrià-Sant Gervasi,private
+527,Colegio Santa Clara - International School,Sarrià-Sant Gervasi,private
+528,Llar d'infants Milton - St. Martí,el Clot,private
+529,Llar d'infants La Granota,Eixample,private
+530,Llar d'infants Drac Màgic,Eixample,private
+531,Llar d'infants El Timbalet,Eixample,private
+532,Llar d'infants Rosetó,Eixample,private
+533,Llar d'infants El Tricicle,Sants-Montjuïc,private
+534,Escola Bressol El Gall i la Gallina - La Marina,Sants-Montjuïc,private
+535,Escola Bressol El Gall i la Gallina - Badal,Sants-Montjuïc,private
+536,Llar d'infants Solcar,el Carmel,private
+537,Llar d'infants El petit rossinyol,Eixample,private
+538,Escola Infantil Bon Sol,Eixample,private
+539,Escuela Infantil El Llimoner,Sant Martí,private
+540,Llar d'infants Xicoi,Sant Andreu,private
+541,Escola Bressol Piolets,Sarrià-Sant Gervasi,private
+542,Escola Bressol Petits Paupí,Sarrià-Sant Gervasi,private
+543,Escola Infantil Montserrat,Sants-Montjuïc,private
+544,Llar d'infants El Tren Groc,Sant Andreu,private
+545,Escola Bressol Congrés,el Congrés i els Indians,private
+546,Llar d'infants Tagore,Sarrià-Sant Gervasi,private
+547,Centro infantil La caseta,Sarrià-Sant Gervasi,private
+548,Llar d'infants Casa Sagrada Família,Sarrià-Sant Gervasi,private
+549,Llar d'infants Guinyolet,la Sagrera,private
+550,Llar d'infants La Pau - Gran Via,Sants-Montjuïc,private
+551,Llar d'infants Àgora,Eixample,private
+552,Escola Infantil Pas A Pas,Horta-Guinardó,private
+553,Escola Bressol Sol Solet,Eixample,private
