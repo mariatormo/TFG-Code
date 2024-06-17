@@ -1,0 +1,802 @@
+,register_id,Name,Neighborhood ID,Neighborhood Name,District ID,District Name,Service Type,Latitude,Longitude
+0,﻿92086000496,Facultat d'Informació i Mitjans Audiovisuals - UB,18.0,Sants,3.0,Sants-Montjuïc,Universitats,41.38128597939545,2.1387878130180185
+1,﻿92086008555,Institut Fort Pius,5.0,el Fort Pienc,2.0,Eixample,Educació secundària,41.39435850748892,2.179807258323757
+2,﻿75990047979,Escola Pia de Nostra Senyora,7.0,la Dreta de l'Eixample,2.0,Eixample,"Educació secundària, Formació professional",41.39121569175179,2.167915583579481
+4,﻿92168166051,Institut Salvador Seguí,73.0,la Verneda i la Pau,10.0,Sant Martí,Formació professional,41.42309401778554,2.196790431984144
+5,﻿92168166070,Escola de Música Kostka,30.0,la Salut,6.0,Gràcia,Música,41.41435733730391,2.157239969018296
+6,﻿75990048204,Centre Educatiu Sagrat Cor-Diputació,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39529768849395,2.174294558270453
+9,﻿92168166077,Centre Educatiu Sant Francesc d'Assís,10.0,Sant Antoni,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.38518119971263,2.163443882097396
+11,﻿92168166146,Centre Educatiu Sant Josep,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40236658941899,2.155367068767063
+15,﻿92168166170,Escola Molí de Finestrelles,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.43882358453997,2.1895586605815005
+17,﻿92168164647,Escola Casas,65.0,el Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.408477172101314,2.19280049740468
+19,﻿92168166173,Institut Lluís Domènech i Montaner,13.0,la Marina de Port,3.0,Sants-Montjuïc,Educació secundària,41.35896198846323,2.133786171216864
+20,﻿92168164659,Escola Catalònia,71.0,Provençals del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41288273565778,2.201376087453191
+22,﻿92168166196,Centre Educatiu Santa Teresa - Ganduxer,24.0,les Tres Torres,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39996979813191,2.1335779353787503
+25,﻿92168164771,Escola Collaso i Gil,1.0,el Raval,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.3762171951022,2.1689769862080865
+27,﻿92168164884,Escola del Mar,35.0,el Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.417860339923216,2.170154967138413
+29,﻿92168164900,Escola Diputació,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.3815016061186,2.155974721321213
+31,﻿93096151622,Escola Splai,45.0,Porta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.433402432343165,2.174357822967229
+33,﻿92168165400,Escola Els Porxos,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41476038224248,2.1983198941026654
+35,﻿92168165450,Centre Educatiu Asunción de Nuestra Señora,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40220115929684,2.2000060038823097
+38,﻿92086033880,Escola Superior d'Empresarials i Relacions Públiques,7.0,la Dreta de l'Eixample,2.0,Eixample,"Formació professional, Universitats",41.39193366824314,2.175188257512289
+40,﻿95172130413,Centre Educatiu Joan Roca Guipúzcoa,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41410715754932,2.19371836762064
+42,﻿75990022836,Escola Luthier de Música i Dansa,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Música,41.389444050407896,2.162326984894252
+43,﻿92168166372,Escola Poblenou,71.0,Provençals del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.40991318696884,2.197328702708788
+45,﻿92168166392,Escola Els Xiprers,22.0,"Vallvidrera, el Tibidabo i les Planes",5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.41994340301173,2.1024614168090343
+47,﻿93050110857,Escola Parc de la Ciutadella,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.386869080055405,2.1899728376135026
+49,﻿92168166037,Centre Educatiu Padre Damián Sagrados Corazones,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40547609448432,2.116533753073015
+52,﻿92168166076,Centre Educatiu San Francisco,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41681167843815,2.2006226443856365
+55,﻿92168166093,Institut  Dolors Aleu,63.0,Navas,9.0,Sant Andreu,Educació secundària,41.418514640985066,2.186020355339397
+56,﻿92168166150,Centre Educatiu Sant Lluís,52.0,la Prosperitat,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44204442038263,2.182035973634189
+59,﻿95257114025,Escola Tabor,6.0,la Sagrada Família,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.40729090540173,2.179320759601953
+61,﻿75990056531,Escola ETP Xavier,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,"Educació secundària, Formació professional",41.385854760072434,2.1775328994208856
+63,﻿75990014350,Escola de Música del Palau,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Música,41.38725279976831,2.1754722533379183
+64,﻿99032142659,Institut Príncep de Viana,61.0,la Sagrera,9.0,Sant Andreu,Educació secundària,41.42792286266486,2.1871253300366518
+65,﻿75990035832,Centre Educatiu Jesuïtes Casp - Sagrat Cor de Jesús,7.0,la Dreta de l'Eixample,2.0,Eixample,"Educació primària, Educació secundària",41.39003192106885,2.171390716405784
+67,﻿96171173623,School of Architecture - UIC,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.406033260654574,2.123231960089889
+68,﻿99400213316,Escola de Música Casp,7.0,la Dreta de l'Eixample,2.0,Eixample,Música,41.39091522231504,2.171644353423491
+69,﻿99097164719,Institut Robòtica i Informàtica Industrial,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38284004736482,2.1160339544499878
+70,﻿99400322970,Centre Educatiu Barcelona Vitae Les Corts,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Formació professional,41.37876060351543,2.115086703291677
+71,﻿99082160443,Institut de Ciències de l'Educació de la Universitat Autònoma de Barcelona *Sant Pau,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41379174747705,2.176910232352591
+72,﻿99400316901,Escola per a Infants,35.0,el Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41508872749402,2.175807785588492
+75,﻿99116122601,Edifici Sants,18.0,Sants,3.0,Sants-Montjuïc,Universitats,41.38128597939545,2.1387878130180185
+76,﻿92086038096,Institut Catala Enginyeria Civil,21.0,Pedralbes,4.0,Les Corts,Universitats,41.386025808317086,2.1103811501410736
+77,﻿99400280574,Escola Superior d'Estudis Musicals Taller de Músics,60.0,Sant Andreu,9.0,Sant Andreu,Música,41.43492914455279,2.1917282568652707
+78,﻿99400291439,Universitat Nacional d'Educació a Distància *Barcelona,45.0,Porta,8.0,Nou Barris,Universitats,41.43646572009841,2.180455235272232
+79,﻿95265112418,Escola Municipal de Música Eixample Joan Manuel Serrat,6.0,la Sagrada Família,2.0,Eixample,Música,41.40596224827076,2.170168320535942
+80,﻿95265112700,Escola de Música Municipal Sant Andreu - Mestre Pich Santasusana,60.0,Sant Andreu,9.0,Sant Andreu,Música,41.43698157136573,2.1922004613303185
+81,﻿99400319713,Escola per a Infants i Adolescents,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38914826078086,2.151784715500113
+84,﻿99400478358,Institut Escola Trinitat Nova,53.0,la Trinitat Nova,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4487332776949,2.184583502268608
+87,﻿99400478390,Escola 9 Graons,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.401554153546826,2.168895385331425
+89,﻿99400505742,Fundació Institut de Recerca Biomèdica,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38188173843909,2.116506436518207
+90,﻿99400496400,Escola Universitària d'Hostaleria i Turisme-CETT,41.0,la Vall d'Hebron,7.0,Horta-Guinardó,Universitats,41.434850603451615,2.1481555636305814
+91,﻿99400478387,Institut Escola El Til·ler,59.0,el Bon Pastor,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43851226233614,2.20266592075902
+94,﻿96171173136,Facultat d'Humanitats - UIC,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.406033260654574,2.123231960089889
+95,﻿99400514781,Fundació Barcelonabeta Brain Research Center,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38934307942733,2.189878364819311
+96,﻿99400495914,Facultat de Dret - UIC,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40603314174738,2.1232317224121497
+97,﻿93049133245,Escola Cervantes,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.38735392112421,2.1770820552623897
+99,﻿99400319127,Centre Educatiu Forma't,15.0,Hostafrancs,3.0,Sants-Montjuïc,"Adults, Formació professional",41.37451457608572,2.143796010890021
+101,﻿99400319273,Escola per a Infants i Adolescents,40.0,Montbau,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42804943371883,2.1434499797388105
+104,﻿99400014241,Facultat d'Educació Social i Treball Social Pere Tarrés - URL,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Universitats,41.39559121946946,2.1457683225939386
+105,﻿98173111439,Escola Tres Pins,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.3670155512874,2.159915577898196
+107,﻿99400013678,Institut Vall d'Hebron,39.0,Sant Genís dels Agudells,7.0,Horta-Guinardó,"Educació secundària, Formació professional",41.42293079126446,2.1410874275389915
+109,﻿99400050401,Fundació Salut i Envelliment UAB,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41379174747705,2.176910232352591
+110,﻿98292103841,Centre Educatiu Frederic Mistral-Tècnic Eulàlia,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.415815232630926,2.132994795549118
+113,﻿99400709228,Centre Educatiu Barcelona Vitae Nou Barris,45.0,Porta,8.0,Nou Barris,Formació professional,41.435431633542514,2.1800941010622124
+114,﻿92168166213,Escola Seat,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.36004942767377,2.1384266320287693
+116,﻿92168166245,Escola Tàber,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.40093198985838,2.112411119338429
+118,﻿92168166356,Institut Joan Brossa,33.0,el Baix Guinardó,7.0,Horta-Guinardó,"Educació secundària, Formació professional",41.41502759794825,2.166865625032984
+120,﻿92168166362,Escola Víctor Català,52.0,la Prosperitat,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.43943539520372,2.176865748121006
+122,﻿92086009585,Escola Massana Centre Municipal d'Art i Disseny,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.380953983657726,2.1708053338176225
+123,﻿92168166371,Centre Educatiu Virolai,37.0,el Carmel,7.0,Horta-Guinardó,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.41785879011815,2.1525177085636917
+128,﻿92168164904,Escola Dolors Monserdà-Santapau,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.40526827246749,2.1153340874935034
+130,﻿92168164922,Escola Eduard Marquina,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.418433726641325,2.2140737280233225
+132,﻿92086001994,Facultat de Farmàcia i Ciències de l'Alimentació - UB,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38549197752809,2.119168154034765
+133,﻿92086002025,Facultat d'Informàtica - UPC,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38790151896208,2.1146704334958524
+134,﻿92086010741,Centre Estudis Universitat California i Illinois,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+135,﻿99349094504,Institut Escola Costa i Llobera,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40196489590419,2.1089306933420966
+138,﻿99400061319,Centre Dona i Literatura,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+139,﻿75990475941,Centre Educatiu Sopeña Barcelona,17.0,Sants - Badal,3.0,Sants-Montjuïc,"Educació secundària, Formació professional",41.37811124129735,2.128380614084981
+141,﻿92086003202,Escola de Música,31.0,la Vila de Gràcia,6.0,Gràcia,Música,41.404734139288166,2.156423120771882
+142,﻿92086036962,Facultat de Ciències Polítiques i Socials - UPF,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.390029580136975,2.1908716995715816
+143,﻿92086001752,Institut Joan Salvat-Papasseit,3.0,la Barceloneta,1.0,Ciutat Vella,Educació secundària,41.38144005668372,2.192413963362347
+144,﻿99272140701,Biblioteca,7.0,la Dreta de l'Eixample,2.0,Eixample,"Biblioteques, Universitats",41.38785930522818,2.168177581579306
+146,﻿92168164915,Escola Duran i Bas,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària",41.385280979372205,2.1332974994397182
+148,﻿92168164921,Institut Escola Mirades,37.0,el Carmel,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42633140439301,2.1531524452640567
+151,﻿92168164967,Escola Els Horts,73.0,la Verneda i la Pau,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.42429729902253,2.201367249809121
+153,﻿92168165003,Centre Educatiu Escolàpies Llúria-Barcelona,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.394337909215984,2.168008408286293
+157,﻿92168165251,Centre Educatiu Joan Pelegrí,15.0,Hostafrancs,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.37587008897511,2.14454959168278
+161,﻿92168165272,Institut Escola Eixample,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39141598738827,2.16177997203942
+164,﻿92086007263,Institut Jaume Balmes,7.0,la Dreta de l'Eixample,2.0,Eixample,"Educació secundària, Formació professional",41.392605941013386,2.1671511535111376
+166,﻿92086013953,Escola de Música Aula de Música 7,7.0,la Dreta de l'Eixample,2.0,Eixample,Música,41.39886805495827,2.1697610759866617
+167,﻿92086007273,Institut Nou Barris,52.0,la Prosperitat,8.0,Nou Barris,Educació secundària,41.44059217516373,2.1805551603178746
+168,﻿92168166307,Escola Torrent  Melis,35.0,el Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.41708143014222,2.171881720640319
+170,﻿92086007290,Institut Icària,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Educació secundària,41.39363829928281,2.1966116595086373
+171,﻿92168166330,Escola Turó del Cargol,30.0,la Salut,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.41124524522704,2.152480292670107
+173,﻿92086007295,Institut Montserrat,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Educació secundària,41.40187095521701,2.14309785173122
+175,﻿92086008087,Centre Educatiu Ramón y Cajal,7.0,la Dreta de l'Eixample,2.0,Eixample,Formació professional,41.39905349511968,2.164738940810504
+176,﻿92086033600,Facultat de Ciències Econòmiques i Empresarials - UPF,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+177,﻿92086007347,Institut L'Alzina,62.0,el Congrés i els Indians,9.0,Sant Andreu,Educació secundària,41.4245692469061,2.178988086911537
+178,﻿92086007532,Institut Barri Besòs,70.0,el Besòs i el Maresme,10.0,Sant Martí,Educació secundària,41.41128307627562,2.21290683597758
+179,﻿99400096279,Centre Especial de Recerca en Teories i Pràctiques Superadores de Desigualtats,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.43575541409688,2.147158169831797
+180,﻿94080141255,Escola Superior de Comerç Internacional,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Universitats,41.38800347000207,2.182053704014178
+181,﻿75990020151,Institució Cultural del C.I.C.,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,"Idiomes, Formació professional",41.397697285981785,2.1388954166038783
+183,﻿75990057201,Centre Educatiu  Princesa Margarita,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42620869422536,2.1658543596995137
+186,﻿199193656,Jam Session Escola de Música,14.0,la Font de la Guatlla,3.0,Sants-Montjuïc,Música,41.37207509307847,2.146435570974566
+187,﻿92086004835,Institut Valldemossa,45.0,Porta,8.0,Nou Barris,Educació secundària,41.43438695568421,2.180535772369523
+188,﻿92086002081,Facultat de Biologia - UB,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38537847387165,2.1170443890573285
+189,﻿92086000114,Institut Rubió i Tudurí,59.0,el Bon Pastor,9.0,Sant Andreu,Formació professional,41.43907565411945,2.2070013035465075
+190,﻿92086015682,Institut de Ciències de l'Educació de la Universitat de Barcelona,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.43575541409688,2.147158169831797
+191,﻿92086003692,Institut Universitari del  Pròxim Orient Antic,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+192,﻿1066143504,Institut de Matemàtica,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+193,﻿92086001948,Escola Tècnica Superior d'Arquitectura de Barcelona - UPC,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.384423505592665,2.113370660627247
+194,﻿92086002687,Institut de Ciències Polítiques i Socials,7.0,la Dreta de l'Eixample,2.0,Eixample,Universitats,41.39309643628034,2.16173532171433
+195,﻿75990630766,Fundació Aula Aegyptiaca,7.0,la Dreta de l'Eixample,2.0,Eixample,Universitats,41.38956149722731,2.162534743579912
+196,﻿92168165320,Escola Ítaca,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària",41.38838232973607,2.134029525864466
+198,﻿92086000938,Centre Universitari EAE,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38034947242665,2.1489708474391604
+199,﻿92168165393,"Centre Educatiu Jesús, Maria i Josep",60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.428623982737015,2.1918794854045887
+202,﻿92168165472,Escola la Farigola de Vallcarca,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.4138319736047,2.146680968580762
+204,﻿92168165473,Escola La Farigola del Clot,65.0,el Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.405862270546855,2.188088422236328
+206,﻿92086014664,Centre d'Estudis Històrics Internacionals,41.0,la Vall d'Hebron,7.0,Horta-Guinardó,Universitats,41.43084545648815,2.151482440531504
+207,﻿99400498166,Centre Educatiu Nou Patufet,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40476898599986,2.160721107653559
+210,﻿92086021242,Institut Anna Gironella de Mundet,40.0,Montbau,7.0,Horta-Guinardó,"Educació secundària, Formació professional",41.435759593982205,2.147163094335721
+212,﻿1117105643,Escola Universitària d'Infermeria - UAB,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41241647123583,2.1757600481895056
+213,﻿98293161643,Granja-Escola Sinaí,6.0,la Sagrada Família,2.0,Eixample,"Adults, Formació professional",41.40931342894633,2.1732496979114297
+215,﻿93125101404,Escola Pompeu Fabra,62.0,el Congrés i els Indians,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.42176963946599,2.183387199234325
+217,﻿354173408,Escola Politècnica Superior d'Edificació de Barcelona - UPC,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,"Sales d'estudi, Universitats",41.383756336159095,2.1127595762315243
+219,﻿92086021606,Centre d'Història Contemporània de Catalunya,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.3808386412199,2.1858736814996145
+220,﻿92086021611,Consorci Universitat Internacional Menéndez Pelayo de Barcelona - Centre Ernest Lluch,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38391450226559,2.1668129104163323
+221,﻿99014101510,Escola de Bosc de Montjuïc,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.36920994679894,2.1610540123451862
+223,﻿1108125936,Grup d'Estudi i Conservació dels Mamifers Marins,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38186963690709,2.116458918258774
+224,﻿92086002917,Institut Menéndez y Pelayo,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Educació secundària,41.40007443665589,2.1448129112351144
+225,﻿92168165918,Centre Educatiu Prínceps 23 d'Abril,51.0,Verdun,8.0,Nou Barris,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària",41.43960663778714,2.1747036678359866
+228,﻿92168165958,Escola Ramon Llull,5.0,el Fort Pienc,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.40089123271555,2.1778010071630134
+230,﻿92168165971,Centre Educatiu Reina Elisenda,30.0,la Salut,6.0,Gràcia,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària",41.413484039930026,2.153373576136896
+233,﻿92168165979,Escola Poeta Foix,27.0,el Putxet i el Farró,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.40230396822659,2.1458792280425274
+235,﻿99400145404,Institut de Recerca de la Biodiversitat,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38537847387165,2.1170443890573285
+236,﻿99400145423,Institut de Biomedicina,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38537847387165,2.1170443890573285
+237,﻿99400145444,Centre de Recerca d'Estudis de Ciutadania i Societat Civil,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38226329588716,2.1155478041707734
+238,﻿99400145507,Centre de Recerca en Enginyeria Biomèdica,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38387760418612,2.113464402113061
+239,﻿99400092745,Unitat Docent Hospital Universitari de la Santa Creu i Sant Pau,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41241647123583,2.1757600481895056
+240,﻿99400145333,Centre de Comunicacions Avançades de Banda Ampla,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38959072976704,2.115594320152307
+241,﻿99400145336,Centre de Desenvolupament Acústic,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40624012732789,2.132487589410652
+242,﻿99400145385,Centre de Llenguatge i Computació,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38226329588716,2.1155478041707734
+243,﻿99400185954,Centre Educatiu de Justícia  Can Llupià,43.0,Horta,7.0,Horta-Guinardó,Educació secundària,41.44100698737053,2.146743735511176
+244,﻿99400178612,Centre Tecnològic de l'Aigua,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38952946529558,2.1175727710884056
+245,﻿93068174518,Facultat de Psicologia i Ciències de l'Educació i de l'Esport Blanquerna - URL,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.41191420929642,2.1333279293214424
+246,﻿93071120350,Facultat de Filosofia La Salle - URL,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38784455590361,2.163452092831893
+247,﻿95255113917,Centre Educatiu Grey,48.0,la Guineueta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.43847935666648,2.172200104455579
+249,﻿92168165525,Escola Mediterrània,3.0,la Barceloneta,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.37944683668936,2.1921689125554478
+251,﻿99400213357,Facultat de Comunicació *Campus de la Comunicació-Poblenou - UPF,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Universitats,41.40383610308015,2.1933428895948404
+252,﻿92168166216,Institut Josep Serrat i Bonastre,27.0,el Putxet i el Farró,5.0,Sarrià-Sant Gervasi,"Educació secundària, Formació professional",41.40652550464127,2.148111979836685
+254,﻿92168166344,Centre Educatiu Valldaura,52.0,la Prosperitat,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44224501898773,2.180028816251742
+257,﻿92168166349,Centre Educatiu Vedruna Gràcia Barcelona,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40471777195005,2.151415793082498
+260,﻿99400222539,Escola L'Univers,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.403023600259,2.162411332550266
+262,﻿93111142859,Centre Educatiu Jesús Maria,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43129768790304,2.1835842437481827
+265,﻿99400177848,Escola Municipal de Música Nou Barris,45.0,Porta,8.0,Nou Barris,Música,41.43127325717091,2.181570818067009
+266,﻿92168164909,Escola Dovella,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41138686621241,2.185735644870212
+268,﻿92168164947,Escola el Polvorí,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.363675852978446,2.1428964534405965
+270,﻿92168164954,Escola Timbaler del Bruc,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.428458064742514,2.177460524074598
+272,﻿92168165502,Centre Educatiu La Salle Comtal,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38798645267699,2.175238245379301
+275,﻿92168165505,Centre Educatiu La Salle Gràcia,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.40693632168589,2.155098850329748
+279,﻿92168165515,Institut Escola Elisabets,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38383512912371,2.1682010889197034
+282,﻿92168165521,Escola Lavínia,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària",41.38162785445061,2.130186146369242
+284,﻿92168165526,Institut Escola Tres Fonts de les Corts,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38419074883434,2.128639170001322
+287,﻿99400145634,Institut de Recerca Vall d'Hebron,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.42804943371883,2.1434499797388105
+288,﻿99400145664,Servei de Desenvolupament del Medicament,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.385407598236654,2.122169228198821
+289,﻿99400145676,Unitat de Recerca en Informàtica Biomèdica,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.38562087271976,2.1960871806342315
+290,﻿92168165588,Escola Mallorca,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.3914113999224,2.1483083211249405
+292,﻿99400145678,Unitat d'Investigació Biofarmacèutica i Farmacocinètica,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38530880058172,2.1222064371428457
+293,﻿92168165598,Institut Mare de Déu de la Mercè,12.0,la Marina del Prat Vermell,3.0,Sants-Montjuïc,Formació professional,41.3498881916577,2.144278261786436
+294,﻿97162135500,Institut Escola Artístic Oriol Martorell,48.0,la Guineueta,8.0,Nou Barris,"Educació primària, Educació secundària, Música",41.44138154205598,2.1728038734254254
+297,﻿99400256922,Centro de Estudios de Nuevas Técnicas Estéticas,2.0,el Barri Gòtic,1.0,Ciutat Vella,Formació professional,41.3820927603217,2.1768499537814496
+298,﻿92168165305,Escola de Música Joan Llongueres,31.0,la Vila de Gràcia,6.0,Gràcia,Música,41.39687675793019,2.1561672197184523
+299,﻿92168165417,Escola  de les Aigües,33.0,el Baix Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.40844003176645,2.1669119630500093
+301,﻿92168165478,Escola de Musica i Arts Escèniques Musicart 102,51.0,Verdun,8.0,Nou Barris,Música,41.443095613027936,2.172204281156008
+302,﻿92168165480,Centre Educatiu Vedruna Immaculada Barcelona,6.0,la Sagrada Família,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40727517438066,2.181291188299981
+305,﻿99400084532,IQS School of Engineering - URL,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Universitats,41.40379591152728,2.1194605457742592
+306,﻿92086029405,Centre de Transferència de Tecnologia de la Universitat Politècnica de Catalunya,21.0,Pedralbes,4.0,Les Corts,Universitats,41.39044758234289,2.1144064064040826
+307,﻿99400145452,Centre de Tecnologies Avançades en Química Fina i Síntesi Assimètrica,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.382649395415946,2.1145343363203266
+308,﻿99400145499,Centre de Recerca en Economia Financera,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+309,﻿99400145502,Centre d'Estudis de Risc Tecnològic,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38489994951897,2.115249564660417
+310,﻿99400145518,"Centre de Recerca i Investigació de Catalunya, S.A.",22.0,"Vallvidrera, el Tibidabo i les Planes",5.0,Sarrià-Sant Gervasi,Universitats,41.42553674649396,2.094850391129139
+311,﻿99400145509,Centre d'Integritat Estructural i Fiabilitat de Materials,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38466042213047,2.115170778876513
+312,﻿99400145563,Innova de la Universitat Politècnica de Catalunya,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38795303595182,2.1148652528365357
+313,﻿99400145598,Institut de Recerca en Economia Aplicada Regional i Pública,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38569213816947,2.114967953157307
+314,﻿93081132442,Centre Educatiu Sagrada Família *Avinyó,2.0,el Barri Gòtic,1.0,Ciutat Vella,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària",41.381124110699375,2.1767531127731368
+317,﻿93083135056,Centre Educatiu Molina,48.0,la Guineueta,8.0,Nou Barris,"Educació secundària, Formació professional",41.4381409225732,2.172442818299853
+319,﻿99047094944,Servei Crei-Mundet,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.43575541409688,2.147158169831797
+320,﻿92168166156,Centre Educatiu FEP Sant Medir,16.0,la Bordeta,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.36993851664151,2.1378928721475967
+323,﻿92086015466,Aula de Música,68.0,el Poblenou,10.0,Sant Martí,Música,41.401133285382,2.200145848591939
+324,﻿92168166172,Centre Educatiu San Rafael,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.421055653974776,2.1990702860756914
+326,﻿92086038344,Institut Universitari d'Història Jaume Vicens Vives,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+327,﻿99400186358,Escola de Música Accent,6.0,la Sagrada Família,2.0,Eixample,Música,41.40639319349842,2.17833277147071
+328,﻿99400153330,Secretaria,71.0,Provençals del Poblenou,10.0,Sant Martí,Universitats,41.40649003199119,2.19451883908909
+329,﻿92168165027,Escola Estel-Guinardó,35.0,el Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.41755241454136,2.172606246971933
+331,﻿92168165129,Institut Flos i Calcat,45.0,Porta,8.0,Nou Barris,"Educació secundària, Formació professional",41.43819404222232,2.182237500103421
+333,﻿92168165133,Escola Font d'en Fargas,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.42266294217902,2.165237995113779
+335,﻿92168165166,Centre Educatiu Garbiñe,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.36507231839673,2.1373353221576155
+337,﻿92168165174,Escola  Prim,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.42016599271571,2.2118106773514707
+339,﻿95317132640,Centre de  Recerca en Economia Internacional,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+340,﻿99400155626,Escola de Polítiques Socials i Urbanes,47.0,Can Peguera,8.0,Nou Barris,Universitats,41.43634697822765,2.1649198810016106
+341,﻿92168165517,Centre Educatiu Laia,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.429257050664624,2.18944476551275
+343,﻿92168165557,Institut Lluïsa Cura,10.0,Sant Antoni,2.0,Eixample,Formació professional,41.38084909970436,2.163206607694735
+344,﻿92168165579,Escola el Turó,46.0,el Turó de la Peira,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.43150904588072,2.171035538569442
+346,﻿95195114710,Aula de Poesia de Barcelona,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.43575541409688,2.147158169831797
+347,﻿95303133748,Facultat d'Humanitats - UPF,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+348,﻿99400159946,Centre Educatiu Colomer,15.0,Hostafrancs,3.0,Sants-Montjuïc,Formació professional,41.3738740636486,2.142231847171299
+349,﻿94020141549,Escola Octavio Paz,63.0,Navas,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.41441952422686,2.189275790172815
+351,﻿99400264870,Centre de Coneixement i Recerca,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Universitats,41.38563498781616,2.181624647512792
+352,﻿92086010664,Escola Superior d'Administració i Direcció d'Empreses - URL,21.0,Pedralbes,4.0,Les Corts,Universitats,41.39374137478776,2.11450041725389
+353,﻿99400694716,Institut de Ciències del Cosmos,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38506372270051,2.1179021240670406
+354,﻿93064110448,Centre Educatiu Grup Escolar Roca,63.0,Navas,9.0,Sant Andreu,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària",41.41958729626797,2.186632034178383
+357,﻿92168165599,Escola Segre,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.43359527001918,2.1931008578878304
+359,﻿92168165601,Escola Mare de Déu de Montserrat *Natzaret,39.0,Sant Genís dels Agudells,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.426139197286666,2.135799470179093
+361,﻿92168165611,Escola Mare Nostrum,43.0,Horta,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.43676676062335,2.154631703068711
+363,﻿92168165614,Centre Educatiu Madres Concepcionistas de la Enseñanza,27.0,el Putxet i el Farró,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40476698451717,2.1491772544468377
+366,﻿92168165642,Escola Mestre Morera,55.0,Ciutat Meridiana,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.45957621396604,2.167750181482561
+368,﻿92168165713,Institut Narcís Monturiol *Salvat Papasseit,3.0,la Barceloneta,1.0,Ciutat Vella,Formació professional,41.38129370288954,2.1928066401883046
+369,﻿92168165757,Centre Educatiu Nostra Senyora de Lurdes,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.40033102573054,2.150769811574501
+371,﻿92168153014,Centre Educatiu Verns,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.42009180785798,2.200609775325304
+373,﻿96283201450,Centre Educatiu Jesuïtes Gràcia-Kostka,30.0,la Salut,6.0,Gràcia,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41435733730391,2.157239969018296
+377,﻿92168164500,Escola Baldiri Reixac,30.0,la Salut,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.41350925781701,2.153127208234728
+379,﻿92168164513,Escola Barcelona,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària",41.381944925333066,2.132054213499209
+381,﻿92168165605,Centre Educatiu FEDAC-Amílcar,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4298120042124,2.171942057155249
+384,﻿92168165660,Escola Marta Mata,51.0,Verdun,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.44244762796052,2.176593525490849
+386,﻿92168164520,Escola Baró de Viver,58.0,Baró de Viver,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.44563141015522,2.200149035995936
+388,﻿92168165664,Centre Educatiu Mireia,5.0,el Fort Pienc,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39356449302054,2.178739970597406
+391,﻿92168164575,Centre Educatiu FEP Bon Pastor,59.0,el Bon Pastor,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4358210969372,2.2043881481899392
+394,﻿92168164610,Centre Educatiu Camí,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,"Educació primària, Educació secundària",41.42960909260782,2.18094548702929
+396,﻿92168164635,Escola Carlit,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.39740303522081,2.174727656268046
+398,﻿93071120222,Escola Universitària d'Enginyeria Tècnica de Telecomunicació La Salle - URL,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40624012732789,2.132487589410652
+399,﻿93134110610,Escola Ferrer i Guàrdia,55.0,Ciutat Meridiana,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.46142126589523,2.1748080816690414
+401,﻿92168165387,Escola Jaume I,18.0,Sants,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.38075184493496,2.138124523946372
+403,﻿92168165397,Centre Educatiu Jesús i Maria *Passeig Sant Gervasi,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40962676260745,2.1321227367298
+406,﻿92168165404,Escola Joan Miró,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.378493776815,2.1510066981241054
+408,﻿92168165463,Centre Educatiu L'Horitzó,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40608829911722,2.1326548774425214
+412,﻿92168165995,Escola Rius i Taulet,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.40792382701724,2.150396876575529
+414,﻿92168166000,Centre Educatiu IFPS Roger de Llúria,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Formació professional,41.39175451472616,2.188968109310081
+415,﻿92168166019,Centre Educatiu Sil,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4128346281528,2.135335506245646
+419,﻿92168166030,Centre Educatiu Sagrado Corazón *Eduardo Conde,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39299329781557,2.121181097169087
+423,﻿99400694731,Institut de Recerca Biomèdica,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38184573119936,2.116442974830661
+424,﻿98350155720,Seminari Interdisciplinar 'Mujeres y Sociedad',1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38403193047776,2.167331566974877
+425,﻿99400717078,IBP Formació Professional,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Formació professional,41.38758030951558,2.1521632756748805
+426,﻿92168164903,Escola Doctor Ferran i Clua,62.0,el Congrés i els Indians,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.42401480894652,2.179437759725011
+428,﻿92168164913,Escola Drassanes,2.0,el Barri Gòtic,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.37910824062923,2.177284995740368
+430,﻿92168164969,Escola els Pins,40.0,Montbau,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.435759593982205,2.147163094335721
+432,﻿92168164972,Escola Emili Juncadella,63.0,Navas,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.41807860569787,2.1814264205076483
+434,﻿92168164975,Escola Bac de Roda,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41596635435773,2.194100196799017
+436,﻿92168164999,Centre Educatiu Escola Pia Balmes,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39783092155686,2.1518796261106825
+439,﻿92168165009,Escola Pia de Sarrià-Calassanç,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40676676957799,2.1244102505399765
+442,﻿94073143449,Facultat de Dret  ESADE - URL,21.0,Pedralbes,4.0,Les Corts,Universitats,41.39460257715366,2.1148077954176467
+443,﻿92086021895,Institut Nacional d'Educació Física de Catalunya *Barcelona,11.0,el Poble-sec,3.0,Sants-Montjuïc,Universitats,41.36537462912623,2.146913285556539
+444,﻿301181529,Institut de Recerca CEPBA-IBM,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38790151896208,2.1146704334958524
+445,﻿92168165153,Institut Francisco de Goya,35.0,el Guinardó,7.0,Horta-Guinardó,Educació secundària,41.42213093143702,2.169276061235553
+446,﻿92086002012,Facultat d'Economia i Empresa - UB,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38569213816947,2.114967953157307
+447,﻿94279121655,Universitat Oberta de Catalunya,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.41503478757256,2.1330244628789514
+448,﻿93111145422,Escola La Pau,73.0,la Verneda i la Pau,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.42417941545302,2.209540076522833
+450,﻿92086008432,Centre de Formació Professional Pejoan,7.0,la Dreta de l'Eixample,2.0,Eixample,Formació professional,41.39905344965265,2.1647388815799173
+451,﻿92168166203,Escola Santiago Rusiñol,52.0,la Prosperitat,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.4398443007178,2.1811162682851
+453,﻿92168166287,Escola Turó Blau,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.428076696210304,2.191187503130866
+455,﻿92168166292,Escola Tibidabo,52.0,la Prosperitat,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.442555073166815,2.1829332651530327
+457,﻿92168166348,Centre Educatiu Vedruna Àngels Barcelona,1.0,el Raval,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38312857706076,2.1677899514729404
+460,﻿99400639116,Institut Angeleta Ferrer,5.0,el Fort Pienc,2.0,Eixample,Educació secundària,41.4004186757127,2.1791455422355464
+461,﻿75990032092,Centre Educatiu FEDAC-Horta,43.0,Horta,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43452514687176,2.1551992543615426
+464,﻿92086010051,Institut Tècniques Energètiques,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38423831335687,2.115331979222668
+465,﻿92086002018,Consell Superior d'Investigacions Científiques,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38090961484458,2.168896630424564
+466,﻿92086002027,Escola Tècnica Superior d'Enginyeria de Telecomunicació - UPC,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38733372682784,2.112437167186739
+467,﻿92086002046,Institut les Corts,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Educació secundària,41.38132561415536,2.126255053704741
+468,﻿99400681792,Escola Superior de Disseny Campusnet,19.0,les Corts,4.0,Les Corts,Formació professional,41.38872671890697,2.1381210907130104
+469,﻿1081092719,Escola Ferran Sunyer,10.0,Sant Antoni,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.37593604478161,2.1631899655131503
+471,﻿92086001517,Institut Verdaguer,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Educació secundària,41.38737945873459,2.186898929399237
+472,﻿92086005087,Institut Joan d'Àustria,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Educació secundària, Formació professional",41.41592948460128,2.198888496942657
+474,﻿99400061931,Centre Educatiu  English School Barcelona,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4186727574625,2.1429786867442
+477,﻿92086007703,Centre Educatiu Mare de Déu del Coll,29.0,el Coll,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42016221739847,2.1511102583797514
+480,﻿98308161840,Escola Amalgama,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Música,41.39744150357215,2.1232416262916383
+481,﻿92086030202,Centre de Política de Sòl i Valoracions,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38442305045343,2.113368872832767
+482,﻿92086009589,Conservatori Municipal de Música de Barcelona,7.0,la Dreta de l'Eixample,2.0,Eixample,Música,41.39590030798757,2.1680371208078077
+483,﻿99400075762,Escola Pere IV,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.40500740562774,2.200442388310342
+485,﻿99400038099,Escola L'Arenal de Llevant,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.40296309686819,2.209253322608713
+487,﻿75990330707,Escola de Música Tarantel·la,18.0,Sants,3.0,Sants-Montjuïc,Música,41.38073550514029,2.135577672628968
+488,﻿75990131419,Centre Educatiu Solc,21.0,Pedralbes,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38995903223211,2.106635102306285
+491,﻿98203130247,Facultat de Turisme i Direcció Hotelera  Sant Ignasi - URL,21.0,Pedralbes,4.0,Les Corts,Universitats,41.39460257715366,2.1148077954176467
+492,﻿92086016109,Escola Superior de Relacions Públiques,10.0,Sant Antoni,2.0,Eixample,Universitats,41.377331253656905,2.154888726076305
+493,﻿92086005269,Institut Químic de Sarrià - Campus Sarrià - IQS,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Universitats,41.40379591152728,2.1194605457742592
+494,﻿92168165607,Centre Educatiu Mare del Diví Pastor,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39357872583796,2.175430412133301
+498,﻿92168165632,Escola Mas Casanovas,33.0,el Baix Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.4135134548639,2.1708476352880903
+500,﻿92168165666,Centre Educatiu Miró,71.0,Provençals del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41322161949374,2.209085844710352
+502,﻿92086002474,Facultat d'Educació - UB,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.4353977782998,2.1451898455955827
+503,﻿92086004627,Institut Moisès Broggi,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,"Educació secundària, Formació professional",41.413421268120864,2.178326828046783
+505,﻿12134410,Centre Educatiu Amor de Dios,46.0,el Turó de la Peira,8.0,Nou Barris,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43186852879052,2.1673630725929494
+509,﻿1130210851,Institut d'Economia de Barcelona,21.0,Pedralbes,4.0,Les Corts,Universitats,41.386977291918406,2.116047632518847
+510,﻿98272164940,Centre Educatiu Cintra,1.0,el Raval,1.0,Ciutat Vella,Educació secundària,41.37812640198185,2.168539245437845
+511,﻿99400100466,Programa Dona,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38939609467136,2.1174732071947022
+512,﻿92086000313,Institut Montjuïc,13.0,la Marina de Port,3.0,Sants-Montjuïc,Educació secundària,41.35547421887749,2.1452310044894904
+513,﻿99400159557,Centre d'Estudis Universitat dels Pacients,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41241647123583,2.1757600481895056
+514,﻿99400105772,Centre d'Estudis Musicals A Tempo,19.0,les Corts,4.0,Les Corts,Música,41.38328011658352,2.1304059992162108
+515,﻿92086003697,Facultat de Filologia i Comunicació - UB,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+516,﻿92086003705,Facultat de Matemàtiques i Informàtica - UB,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+517,﻿92086001932,Facultat de Geografia i Història - UB,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38403193047776,2.167331566974877
+518,﻿92086001938,Facultat de Belles Arts - UB,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38312349424735,2.1139823906208206
+519,﻿96261160143,Institut XXV Olimpíada,14.0,la Font de la Guatlla,3.0,Sants-Montjuïc,Educació secundària,41.37011288396194,2.148834590166746
+520,﻿99400188451,SMOS Barcelona Expert Centre,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.38562087271976,2.1960871806342315
+521,﻿99400197947,Escola La Maquinista,59.0,el Bon Pastor,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.4390119909961,2.195800264029226
+523,﻿99400145674,Laboratori d'Enginyeria Marítima,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38930399355781,2.115789578332347
+524,﻿99400264830,Institut Escola Turó de  Roquetes,50.0,les Roquetes,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44647404453238,2.1728361106817555
+527,﻿97339100213,Centre Educatiu Jesuïtes Sarrià - Sant Ignasi,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.40296270967555,2.121510655906228
+532,﻿266121351,Institut d'Educació Secundària i Artística,11.0,el Poble-sec,3.0,Sants-Montjuïc,Educació secundària,41.37140342180358,2.157542746806441
+533,﻿75990172119,Centre Educatiu Santapau-Pifma,45.0,Porta,8.0,Nou Barris,Formació professional,41.431466157998415,2.1767371149458734
+534,﻿92086002009,Facultat de Física - UB,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38489994951897,2.115249564660417
+535,﻿92086002050,Càtedra Gaudí - ETSAB - UPC,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.384423505592665,2.113370660627247
+536,﻿99400075761,Escola Eulàlia Bota,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.44463333487745,2.192574438289911
+538,﻿99400030841,Fundació Barcelona Media - Centre d'Innovació,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Universitats,41.404425080209855,2.1936694239353693
+539,﻿93064102259,Centre Educatiu Peter Pan,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.40513785348436,2.121488906041987
+541,﻿95317132856,Institut d'Estudis Territorials,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Universitats,41.38503131976485,2.185753641665234
+542,﻿92168165500,Centre Educatiu La Salle Barceloneta,3.0,la Barceloneta,1.0,Ciutat Vella,Formació professional,41.3821988018784,2.1893006019115258
+543,﻿92168165507,Centre Educatiu La Salle Horta,43.0,Horta,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43653263980817,2.1609639013656685
+546,﻿92168165560,Centre Educatiu López Vicuña,7.0,la Dreta de l'Eixample,2.0,Eixample,Formació professional,41.39489435492012,2.1705527267250275
+547,﻿92168165572,Centre Educatiu Escola Pia - Luz Casanova,51.0,Verdun,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44314723594106,2.175250527458289
+550,﻿93075102709,School of Management - IQS,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Universitats,41.40379591152728,2.1194605457742592
+551,﻿93075115200,Centre Educatiu Montserrat *Av. Vallvidrera,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.409416632994734,2.1106754383686037
+555,﻿92168165873,Institut Pau Claris,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Educació secundària,41.39128260500432,2.18134710585921
+556,﻿92168165897,Escola Pit-Roig,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.42357727859375,2.1703729800114075
+558,﻿92168165905,Institut Poblenou,68.0,el Poblenou,10.0,Sant Martí,Formació professional,41.39834967946906,2.2033135649478446
+559,﻿98314161904,Escola de Música Marshall,27.0,el Putxet i el Farró,5.0,Sarrià-Sant Gervasi,Música,41.401437177199085,2.150007289734474
+560,﻿97315165802,Centre Educatiu Thuya,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Adults, Formació professional",41.40574103739798,2.136824035870799
+562,﻿96073124544,Institut Salvador Espriu,65.0,el Clot,10.0,Sant Martí,Educació secundària,41.40557278654692,2.1879601974840224
+563,﻿97027175152,Facultat de Ciències de la Salut Blanquerna - URL,33.0,el Baix Guinardó,7.0,Horta-Guinardó,Universitats,41.409786505203634,2.1721184721407334
+564,﻿95165122540,Institut Universitari Cultura,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+565,﻿92168165640,Escola Mercè Rodoreda,52.0,la Prosperitat,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.445868894480135,2.1857245692364806
+567,﻿92168165653,Escola Milà i Fontanals,1.0,el Raval,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.38215877369944,2.168204704594222
+569,﻿92168165671,Escola de Mitjans Audiovisuals,16.0,la Bordeta,3.0,Sants-Montjuïc,Formació professional,41.36754138527626,2.138508797833273
+570,﻿92168165706,Escola Nabí,22.0,"Vallvidrera, el Tibidabo i les Planes",5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.41605230629501,2.1017942870735373
+572,﻿92168165900,Escola La Mar Bella,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.39973789141123,2.2046777632789207
+574,﻿92168165914,Escola Pegaso,61.0,la Sagrera,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.42792286266486,2.1871253300366518
+576,﻿92168164392,Centre Educatiu Adela de Trenquelleón,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.413929461064,2.1947036696130047
+579,﻿97203145418,Àrea Informació,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38790151896208,2.1146704334958524
+580,﻿92168164438,Escola Àngels Garriga,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.42597983517579,2.167703658288384
+582,﻿92168164474,Centre Educatiu Acis - Artur Martorell,34.0,Can Baró,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41656273573594,2.1620957170113524
+585,﻿96156141434,Escola Pere Vila,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.39128260500432,2.18134710585921
+587,﻿96313121616,Escola Pau Romeva,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària",41.37628120603343,2.1134828061272373
+589,﻿99400145522,Fundació Privada Clínic per la Recerca Biomèdica,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.389158663694246,2.1517772961900903
+590,﻿99400145532,Centre Tecnològic de Telecomunicacions Mòbils,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38730890128584,2.111145329424392
+591,﻿97196130326,Institut d'Estudis Hispànics,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+592,﻿99400038097,Escola Fort Pienc,5.0,el Fort Pienc,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.39518795392121,2.1824953167364085
+594,﻿99400248153,Centre de Recerca en Salut Internacional de Barcelona,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.39013324147976,2.1532867495245505
+595,﻿96107123411,Centre d'Estudis Canadencs Universitat  de Barcelona,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38723971871468,2.1210972500110508
+596,﻿92168172716,Centre Educatiu Jesuïtes del Clot,65.0,el Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Adults, Educació primària, Educació secundària, Formació professional",41.41312603124579,2.1907053886762484
+601,﻿92168164444,Escola Antoni Brusi,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.39103208450983,2.189543966805976
+603,﻿92086038004,Institut Josep Pla,46.0,el Turó de la Peira,8.0,Nou Barris,Educació secundària,41.43171740723793,2.164338051403876
+604,﻿92086038095,Centre Internacional de  Mètodes Numèrics en Enginyeria,21.0,Pedralbes,4.0,Les Corts,Universitats,41.386025808317086,2.1103811501410736
+605,﻿92168165842,Escola Parc del Guinardó,35.0,el Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.42008412690289,2.17050613591235
+607,﻿92168165877,Escola Cal Maiol,18.0,Sants,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37275870841211,2.136121251833447
+609,﻿92168165901,Institut Escola Antaviana,50.0,les Roquetes,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44818432585492,2.1786002392699624
+612,﻿97114095149,Institut La Guineueta,48.0,la Guineueta,8.0,Nou Barris,"Educació secundària, Formació professional",41.44275170606566,2.1720981995542705
+614,﻿92086000163,Centre d'Estudis d'Art Contemporani,11.0,el Poble-sec,3.0,Sants-Montjuïc,Universitats,41.368292261821246,2.1601492925476364
+615,﻿97328122134,Institut Montserrat Roig,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,Educació secundària,41.40739929927398,2.1651158990356314
+616,﻿93069103604,Menjadors Universitàris,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38227297506455,2.115112671672215
+617,﻿94024205220,Institut Manuel Carrasco i Formiguera,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,Educació secundària,41.42658603011807,2.1737966206194
+618,﻿93131091007,Facultat de Traducció i Interpretació - UPF,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Universitats,41.40383610308015,2.1933428895948404
+619,﻿92168177309,Universitat Pompeu Fabra,2.0,el Barri Gòtic,1.0,Ciutat Vella,Universitats,41.379158638700645,2.1796190518636545
+620,﻿92168164758,Escola Ciutat Comtal,56.0,Vallbona,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.46294957595788,2.1827847217571863
+622,﻿92168164760,Centre Educatiu Claret,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.405951148357936,2.166593971349565
+625,﻿99400072593,Observatori de Bioètica i Dret,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38723970934282,2.1210972022957915
+626,﻿92168172690,Institut Escola d'Hoteleria i Turisme de Barcelona,45.0,Porta,8.0,Nou Barris,Formació professional,41.43374961175949,2.180894741672587
+627,﻿93131090732,Facultat de Dret - UPF,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+628,﻿99400497898,Escola Universitària de Turisme Ostelea,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Universitats,41.380661533845256,2.149757830499899
+629,﻿99286131534,Unitat Docent Hospital Universitari de la Vall d'Hebron,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.42868257584527,2.138756551103979
+630,﻿94270123131,Serveis Científicotècnics,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.382649395415946,2.1145343363203266
+631,﻿92234123511,Institut Vila de Gràcia,31.0,la Vila de Gràcia,6.0,Gràcia,Educació secundària,41.3986014146248,2.155368115677565
+632,﻿99400145669,Servei de Recerca,2.0,el Barri Gòtic,1.0,Ciutat Vella,Universitats,41.37913743201389,2.1795062460893457
+633,﻿99400145688,Universitat de Barcelona Trampolí Tecnològic,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38186963690709,2.116458918258774
+634,﻿99400079604,Aules de Formació Permanent per a la Gent Gran de Barcelona,10.0,Sant Antoni,2.0,Eixample,Universitats,41.38362779436018,2.161357278865766
+635,﻿92168165836,Centre Educatiu Pàlcam,33.0,el Baix Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.411087096447794,2.171638707346255
+639,﻿92168165856,Escola Pau Casals,41.0,la Vall d'Hebron,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.4318722602892,2.15168300702906
+641,﻿92168165871,Escola Pare Poveda,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.41693061120518,2.1418483119179204
+643,﻿92168164454,Escola Arc Iris,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.42527082492769,2.171449020831429
+645,﻿92168165606,Centre Educatiu Mare de Déu dels Àngels,61.0,la Sagrera,9.0,Sant Andreu,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42287764355707,2.1912773816109894
+649,﻿92168165690,Escola Montseny *Torrent del Remei,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.41561305868736,2.148229934277885
+651,﻿92168165697,Escola Mossèn Jacint Verdaguer,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37332070884572,2.154824350891146
+653,﻿92168165716,Centre Educatiu Nausica,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària",41.39706243409874,2.14548565093138
+656,﻿92168165717,Centre Educatiu Jesuïtes Sant Gervasi - Infant Jesús,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39693977486581,2.149178612436604
+660,﻿97027103504,UOC Seu de Barcelona,71.0,Provençals del Poblenou,10.0,Sant Martí,Universitats,41.40649363005068,2.19444957141162
+661,﻿99400066246,Escola de Música i Dansa Esclat *Vila Olímpica,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Música,41.39205548440707,2.196167481517439
+662,﻿98308111007,Centre Profesional de Música Liceu,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Música,41.388617744369554,2.173145777606978
+663,﻿99400035498,Escola de Música Nostra Senyora de Lurdes,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Música,41.40033102467106,2.1507696680349047
+664,﻿75990108406,Centre Educatiu Salesià de Sant Josep,10.0,Sant Antoni,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.37744098695092,2.155998402994959
+667,﻿92086008434,Centre Educatiu Pare Manyanet,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38873041314552,2.138133652817682
+671,﻿75990540024,Centre Educatiu Piaget,37.0,el Carmel,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4224150229954,2.1524884094613337
+674,﻿75990093770,Aula Escuela Europea,21.0,Pedralbes,4.0,Les Corts,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39808006912545,2.107233656835713
+678,﻿99400096808,Institut de Bioenginyeria de Catalunya,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38188173843909,2.116506436518207
+679,﻿312180049,Centre de Tecnologies i Aplicacions del Llenguatge i la Parla,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38790151896208,2.1146704334958524
+680,﻿99400109026,Barcelona Supercomputing Center - Centro Nacional de Supercomputación,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38991476928731,2.115372219417795
+681,﻿92086019684,Escola d'Enginyeria de Barcelona Est - UPC,70.0,el Besòs i el Maresme,10.0,Sant Martí,Universitats,41.41265194774744,2.2220511148010376
+682,﻿75990078662,Diapasó Centre Musical,17.0,Sants - Badal,3.0,Sants-Montjuïc,Música,41.376928002703615,2.126854449640898
+683,﻿75990131184,Centre Educatiu Maristes Sants - Les Corts,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38292623820122,2.134870861542838
+686,﻿75990098681,Universitat Abat Oliba CEU,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.41035194077694,2.1268151064605028
+687,﻿99400197966,Escola Sant Martí,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.4046402299505,2.1978184408198067
+689,﻿75990293974,Institut Superior Medicines Tradicionals,10.0,Sant Antoni,2.0,Eixample,"Educació secundària, Formació professional",41.375786116082566,2.15509041156104
+691,﻿75990293992,Centre Educatiu AIES,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Formació professional,41.39637000478218,2.1542183847229475
+692,﻿92086008695,Facultat de Nàutica - UPC,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.38243904810675,2.184497630278131
+693,﻿75990351798,Centre Educatiu CETT,41.0,la Vall d'Hebron,7.0,Horta-Guinardó,Formació professional,41.43485061254671,2.1481555754807795
+694,﻿99400317117,"I2CAT, Internet i Innovació Digital a Catalunya",21.0,Pedralbes,4.0,Les Corts,Universitats,41.38730893666497,2.111145245219858
+695,﻿99400177239,Institut Front Marítim,68.0,el Poblenou,10.0,Sant Martí,Educació secundària,41.40261729172288,2.208831181586877
+696,﻿99400676990,Centre de Formació Professional Martí-Codolar,42.0,la Clota,7.0,Horta-Guinardó,Formació professional,41.42748434998551,2.151116863474216
+697,﻿75990697037,Metàfora Centre d'Estudis d'Art-Teràpia,18.0,Sants,3.0,Sants-Montjuïc,Universitats,41.37829519044735,2.132873852906906
+698,﻿75990349490,Escola Aldana,10.0,Sant Antoni,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.37552737856383,2.165684658297076
+700,﻿75990349520,"CEV, Centre de Comunicació, Imatge i So",71.0,Provençals del Poblenou,10.0,Sant Martí,"Informàtica, Educació secundària, Formació professional",41.41210144132233,2.201202960160327
+703,﻿75990333963,Centre Educatiu Mare de Déu de Núria,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41084460865554,2.1853826731105084
+706,﻿75990333990,Centre Educatiu FEP Santíssima Trinitat,57.0,la Trinitat Vella,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.45048074624148,2.1912078909633537
+709,﻿75990333996,Escola Pia Sant Antoni,1.0,el Raval,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Adults, Educació primària, Educació secundària, Formació professional",41.378003162355824,2.164357651526934
+714,﻿99400013676,Escola Torrent de Can Carabassa,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.42721001240695,2.1629087689242863
+716,﻿75990334011,Centre Educatiu Sant Francesc Xavier,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.372570080494505,2.1580739573232206
+719,﻿75990334012,Centre Educatiu Sant Marc de Sarrià,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40181333539779,2.122723553390357
+723,﻿99400667620,Programa d'Estudis Independents,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38322313755374,2.166969712908759
+724,﻿75990105914,Centre Educatiu FEP Mare Alfonsa Cavín,55.0,Ciutat Meridiana,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.46048628256781,2.1751537897804525
+727,﻿92086009952,Escola de Gemmologia,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38437037725497,2.1197216758551365
+728,﻿92086010005,Campus Docent Sant Joan de Déu - Fundació Privada,21.0,Pedralbes,4.0,Les Corts,Universitats,41.39110310485633,2.1115613711320567
+729,﻿92086010047,Institut Organització Control Sistemes Industrials,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38408557109426,2.1153818887824603
+730,﻿92086001941,Facultat de Filosofia - UB,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38403193047776,2.167331566974877
+731,﻿99400073027,Facultat de Ciències de la Comunicació - UIC,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.406033260654574,2.123231960089889
+732,﻿99400620286,Institut Pedralbes,21.0,Pedralbes,4.0,Les Corts,"Educació secundària, Formació professional",41.38638084973198,2.1058139935837232
+734,﻿99400620290,Institut La Sagrera Sant Andreu,60.0,Sant Andreu,9.0,Sant Andreu,Educació secundària,41.43921392279108,2.193324471337654
+735,﻿75990104823,Centre Educatiu Lys,27.0,el Putxet i el Farró,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.40468599924156,2.143149911073567
+737,﻿99400100461,Programa de Coeducació,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41379174747705,2.176910232352591
+738,﻿75990333953,Centre Educatiu FEP L'Esperança,58.0,Baró de Viver,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.44678716758727,2.2011624839908794
+742,﻿75990333957,Centre Educatiu Montseny-Poblenou,69.0,Diagonal Mar i el Front Marítim del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41063990102234,2.21053229696309
+745,﻿75990334003,Centre Educatiu La Salle Bonanova,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4062399904267,2.132487351954574
+748,﻿99400158742,Centre Educatiu Josep Pons,19.0,les Corts,4.0,Les Corts,Formació professional,41.39116611751545,2.1425680658577364
+749,﻿99400145529,Centre per a la Innovació Local,7.0,la Dreta de l'Eixample,2.0,Eixample,Universitats,41.39309214642118,2.16173623805482
+750,﻿99400145553,Grup de Tecnologia Musical,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Universitats,41.40365489256486,2.194525488265476
+751,﻿99400145329,Centre de Disseny d'Equips Industrials,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38284004736482,2.1160339544499878
+752,﻿99400145353,Centre de Desenvolupament Electrònic i Informàtic,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40944167227188,2.1300561885083784
+753,﻿99400145382,Fundació CIM,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38284004736482,2.1160339544499878
+754,﻿75990294000,Centre d'Ensenyament Musical Barcelona,10.0,Sant Antoni,2.0,Eixample,Música,41.38078561863176,2.15719428653302
+755,﻿75990120076,Centre Educatiu Maria Auxiliadora,10.0,Sant Antoni,2.0,Eixample,Educació primària,41.378500237499885,2.156045542288389
+756,﻿99400224521,Institut Diagnosi Ambiental i Estudis de l'Aigua,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38770673949005,2.114945140444898
+757,﻿75990162907,Escola de Música Juan Pedro Carrero,1.0,el Raval,1.0,Ciutat Vella,Música,41.38250469332915,2.170807735012897
+758,﻿97275093600,Centre Educatiu Stucom Pelai,1.0,el Raval,1.0,Ciutat Vella,"Adults, Formació professional",41.38579903052059,2.165298464715733
+760,﻿99097163729,Institut d'Investigacions Biomèdiques de Barcelona,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.39042902342673,2.1533107565639185
+761,﻿92168164412,Escola Alexandre Galí,3.0,la Barceloneta,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.38125618970832,2.1933439332206177
+763,﻿92168164414,Centre Educatiu Alfageme,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.36144375397313,2.1389428255750764
+765,﻿92168164435,Escola Baixeras,2.0,el Barri Gòtic,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.38287060220196,2.179799736381276
+767,﻿92168164465,Escola Josep Maria Jujol,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.39821515341866,2.1558975483762164
+769,﻿75990108327,Centre Educatiu Reial Monestir de Santa Isabel,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39728359109981,2.126188139711606
+773,﻿99400222548,Escola Can Fabra,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.433793974354174,2.1908326284827284
+775,﻿99400050458,Parc d'Innovació Tecnològica i Empresarial La Salle,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40944167227188,2.1300561885083784
+776,﻿75990354140,Escola de Música Ricoma i Fills,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Música,41.3848406513124,2.1442715185263457
+777,﻿92086009954,Facultat de Psicologia - UB,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.43759643674505,2.1447321476703194
+778,﻿92086007970,Centre Educatiu Santa Dorotea,24.0,les Tres Torres,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39350536143271,2.129071949183403
+781,﻿99400118578,Universitat Progressista d'Estiu de Catalunya,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Universitats,41.38349672051972,2.1795376304761573
+782,﻿92168165762,Centre Educatiu Dominiques de Barcelona,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40052483409696,2.171235652839304
+785,﻿92168165823,Escola Orlandai,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.39739233524259,2.119282896108102
+787,﻿92168165837,Escola Palma de Mallorca,45.0,Porta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.43315968004247,2.1775688179429284
+789,﻿92168165849,Escola Patronat Domènech,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.39840443152677,2.1582121264591376
+791,﻿92086005579,Institut Narcís Monturiol *Harmonia,40.0,Montbau,7.0,Horta-Guinardó,Educació secundària,41.432325901404695,2.145091216559758
+792,﻿92168165857,Escola Pau Vila,14.0,la Font de la Guatlla,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.3669415521691,2.1427216285174966
+794,﻿92168165925,Escola Provençals,71.0,Provençals del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.40841964863956,2.1955535808082445
+796,﻿92168165927,Centre Educatiu Providencia del Corazón de Jesús,43.0,Horta,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43860035733805,2.1580348887601595
+799,﻿92168165957,Escola Ramon Casas,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.35866971685439,2.134382603401038
+801,﻿92168165959,Escola  Pràctiques,18.0,Sants,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.38128597939545,2.1387878130180185
+803,﻿92168165972,Escola Reina Violant,31.0,la Vila de Gràcia,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.40415469495062,2.1530357611950968
+805,﻿93137091501,Centre Educatiu Sagrado Corazón *Ribes,5.0,el Fort Pienc,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.3997020797323,2.183869243060061
+808,﻿92086000336,Institut Milà i Fontanals,1.0,el Raval,1.0,Ciutat Vella,Educació secundària,41.37645821131016,2.1671088482836027
+809,﻿99400380477,Institut Martí Pous,60.0,Sant Andreu,9.0,Sant Andreu,Educació secundària,41.433648966691024,2.1907240401224644
+810,﻿99400145679,Parc de Recerca i Innovació de la Universitat Politècnica de Catalunya,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38715938661021,2.112170729434784
+811,﻿92168164443,Escola Antoni Balmanya,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.416370431796125,2.1827822866030013
+813,﻿92168164469,Centre Educatiu Arrels,62.0,el Congrés i els Indians,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42667719385,2.1810375556219155
+816,﻿92168164514,Institut Rambla Prim,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Educació secundària, Formació professional",41.4157621286334,2.21246843801822
+818,﻿92168164518,Escola Bàrkeno,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.35547421994292,2.145231147930288
+820,﻿92168164521,Escola Barrufet,18.0,Sants,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37692859666653,2.134751788846474
+822,﻿92168164573,Escola Bogatell,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.39343515484429,2.194453764154044
+824,﻿96073124304,Institut Miquel Tarradell,1.0,el Raval,1.0,Ciutat Vella,"Educació secundària, Formació professional",41.381828600175794,2.168534112133251
+826,﻿96073135650,Escola Vila Olímpica,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.39505493685655,2.203666123017716
+828,﻿99400161708,Centre de Medicina Regenerativa de Barcelona,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.38557632373501,2.194017030461737
+829,﻿99400318560,Escola de Música Musics'Son,31.0,la Vila de Gràcia,6.0,Gràcia,Música,41.40211323565377,2.155753276829023
+830,﻿98288133020,Centre Educatiu Sagrat Cor-Sarrià,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.40063715462606,2.1190684236753623
+834,﻿99400322616,Escola per a Infants i Adolescents,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Educació primària, Educació secundària",41.40196697142778,2.121523780191905
+836,﻿99125131541,Escola La Sedeta,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.4050478070164,2.1682047565107934
+838,﻿99162093859,Centre Educatiu Casa del Roure,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Educació secundària,41.40661670472612,2.11703789429889
+839,﻿99400096806,Institut de Biologia Molecular de Barcelona,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38188173843909,2.116506436518207
+840,﻿99400145512,Centre d'Investigació Film-Història,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.384038957130166,2.16686547398752
+841,﻿99400145520,Centre Europeu de Paral.lelisme de Barcelona,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38943844715893,2.1157040310387605
+842,﻿99400145537,Centre Universitari de Sociolingüística i Comunicació,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+843,﻿99400145550,Grup de Compatibilitat Electromagnètica,21.0,Pedralbes,4.0,Les Corts,Universitats,41.389151618851365,2.115887328799245
+844,﻿99400145554,Grup d'Enginyeria Molecular,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Universitats,41.40379591152728,2.1194605457742592
+845,﻿99400288244,Escola de Música La Salle Bonanova,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Música,41.4062399904267,2.132487351954574
+846,﻿99400222305,Escola dels Encants,6.0,la Sagrada Família,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.40400714132261,2.183081032848622
+848,﻿96171173340,Facultat de Ciències Econòmiques i Socials - UIC,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.406033260654574,2.123231960089889
+849,﻿93118151930,Escola Pau Casals-Gràcia,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.409320383752046,2.1617984817700022
+851,﻿93123115948,Escola L'Arc de Sant Martí,73.0,la Verneda i la Pau,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.4227837894168,2.199762482375375
+853,﻿94292171325,Escola Auró,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.38584285162456,2.1524652478936903
+855,﻿99400259239,SAE Centre privat d'estudis artístics superiors de Música,71.0,Provençals del Poblenou,10.0,Sant Martí,Música,41.41213430348236,2.201225737692777
+856,﻿75990064960,Escola de Música l'Antàrtida,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Música,41.39675080908336,2.12165578501031
+857,﻿99400591625,Institut Tecnològic de Barcelona,53.0,la Trinitat Nova,8.0,Nou Barris,Formació professional,41.45355596488746,2.1866651172065303
+858,﻿92086007270,Institut Barcelona-Congrés,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,Educació secundària,41.42938116066023,2.173766830584569
+859,﻿92086007279,Institut Poeta Maragall,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Educació secundària,41.39132547357072,2.156771608434526
+860,﻿92086007300,Institut Teresa Pàmies,33.0,el Baix Guinardó,7.0,Horta-Guinardó,Educació secundària,41.40858009733391,2.1675803181496613
+861,﻿92086007320,Institut Bonanova,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Formació professional,41.38452336800812,2.187392803908708
+862,﻿92168166081,Centre Educatiu Sant Gabriel,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42087973104712,2.2116217105040965
+865,﻿92086007596,Centre Educatiu Thau,21.0,Pedralbes,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38764005512567,2.10528876791072
+868,﻿92168166096,Escola Rambleta del Clot,65.0,el Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.4103326824326,2.1900866103583576
+870,﻿92168166141,Centre Educatiu Sant Josep-Teresianes,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.405694282727126,2.165434363223489
+873,﻿92168166143,Escola Miralletes,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41342381267918,2.1791680791219434
+875,﻿92168166145,Centre Educatiu FEP Sant Josep Oriol,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.383895091059614,2.1574735798601874
+877,﻿92168166159,Centre Educatiu Sant Miquel,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39135225089991,2.1537973527769503
+880,﻿92168166180,Centre Educatiu Santa Anna-Eixample,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39446007995054,2.173732408250671
+883,﻿75990066705,Centre Educatiu Solc Nou,28.0,Vallcarca i els Penitents,6.0,Gràcia,Formació professional,41.41415335727904,2.141948248727714
+884,﻿92168166183,Centre Educatiu Santa Claus,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària",41.41192305513935,2.1373393327226933
+886,﻿75990035579,Centre Educatiu IPSE,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.392116663869125,2.1497578525609384
+890,﻿75990039370,Centre Educatiu Canigó,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41106664518731,2.133160920304646
+894,﻿99400686750,Institut Escola El Molí,52.0,la Prosperitat,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44467179057191,2.1811930283717254
+897,﻿99400685168,EINA Bosc,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Universitats,41.40891497056956,2.112479163343352
+898,﻿92168166220,Centre Educatiu Sagrat Cor - Esclaves,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39226083134233,2.161608490219287
+902,﻿92168166298,Escola Tomàs Moro,49.0,Canyelles,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.44294288062594,2.1633415639132685
+904,﻿92168165205,Centre Educatiu Gravi,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42039935012544,2.14083004814997
+908,﻿92168165268,Escola Ignasi Iglésias,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.441536026361206,2.1917589047390966
+910,﻿92168165273,Centre Educatiu Cor de Maria-Sabastida,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42826894798395,2.168489652544875
+913,﻿93039115623,IL3 Institut de Formació Contínua - Universitat de Barcelona,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Universitats,41.40277794946352,2.192149004479942
+914,﻿92168165941,Escola de la Concepció,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.395449509549465,2.168273195819344
+916,﻿92168165965,Centre Educatiu Regina Carmeli,43.0,Horta,7.0,Horta-Guinardó,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43462912567428,2.158531953583977
+920,﻿92168165974,Escola Els Llorers,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.38362447827746,2.1533157599721005
+922,﻿92086007303,Institut Obert de Catalunya,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Adults, Idiomes, Educació secundària, Formació professional",41.37481357415832,2.168307428596343
+926,﻿92168165990,Centre Educatiu Els Arcs,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Educació secundària,41.40023542102361,2.1390957708165863
+927,﻿92168166018,Escola Rubén Darío,1.0,el Raval,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.37693899456802,2.165753855340101
+929,﻿92168166035,Centre Educatiu Sagrat Cor Besòs,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41583816909674,2.2177445182212754
+932,﻿92168164654,Escola Castella,1.0,el Raval,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària",41.384975512205166,2.164608860448668
+934,﻿92168164762,Centre Educatiu Jesús Maria Claudina Thévenet *Rambla  Caçador,48.0,la Guineueta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44079496151501,2.16767090338222
+937,﻿99400145335,Centre de Disseny i Optimització de Processos i Materials,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38476479287836,2.117283075395298
+938,﻿99400145349,Centre de Projecció Tèrmica,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38476479287836,2.117283075395298
+939,﻿99400145354,Centre de Diagnòstic Industrial i Fluidodinàmica,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38393282880366,2.1154317981027493
+940,﻿92168164788,Institut Consell de Cent,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Educació secundària, Formació professional",41.37311123089073,2.17441647138149
+942,﻿94251080553,L'Aula de Música Moderna i Jazz,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Música,41.388617744369554,2.173145777606978
+943,﻿99400145450,Centre de Recerca Institut de Dret Públic,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38186963690709,2.116458918258774
+944,﻿99400613493,Institut Català d'Avaluació de Polítiques Públiques,7.0,la Dreta de l'Eixample,2.0,Eixample,Universitats,41.39146329298057,2.169029335575435
+945,﻿99400108000,Escola La Llacuna del Poblenou,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.40204423697135,2.198756263682994
+947,﻿99400470701,Centre d'Innovació del Transport,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38730004020784,2.112416751282657
+948,﻿99400100463,Grup de Recerca Multiculturalisme i Gènere,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38403193047776,2.167331566974877
+949,﻿99400096762,Observatori de Globalització,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38207153937563,2.11571920980788
+950,﻿99400096763,Observatori del Tíbet i Àsia Central,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38181496935082,2.1167473290451104
+951,﻿99400318565,"Trémolo, Formació Musical",27.0,el Putxet i el Farró,5.0,Sarrià-Sant Gervasi,Música,41.40533595627382,2.145832103145853
+952,﻿99400706939,Centre Educatiu Ilerna Barcelona,33.0,el Baix Guinardó,7.0,Horta-Guinardó,Formació professional,41.410628925487146,2.1695265153453187
+953,﻿99400391554,Institut Viladomat,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Educació secundària,41.38235487122607,2.154257403521576
+954,﻿99400399175,IFP Barcelona,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Educació secundària, Formació professional",41.38022756188181,2.1451620418779123
+956,﻿99400315553,Escola de Música Liceu,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Música,41.38861871795946,2.173147140744683
+957,﻿93172100432,Gestió Acadèmica *Pavelló Rosa,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38132376004671,2.1262516820863997
+958,﻿99400694578,Escola Tècnica Superior d'Enginyeria La Salle - URL,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40939447721964,2.1300172852702595
+959,﻿92168164743,Centre Educatiu Ceir  Arco *Villarroel,10.0,Sant Antoni,2.0,Eixample,Formació professional,41.38059391906916,2.1627521538018395
+960,﻿75990274452,Centre Educatiu ITES-Ciape,7.0,la Dreta de l'Eixample,2.0,Eixample,Formació professional,41.39338012290234,2.1755324419137496
+961,﻿92168164764,Centre Educatiu Closa,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42925402204876,2.1781844925388563
+964,﻿92168164803,Institut Escola Coves d'en Cimany,37.0,el Carmel,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42074100321632,2.152831919944113
+967,﻿75990274543,Escuela Guerrero,5.0,el Fort Pienc,2.0,Eixample,Formació professional,41.39687923088226,2.1798737749549506
+968,﻿75990118527,ESIC  Business & Marketing School,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Formació professional,41.39565040101407,2.1459376492463385
+969,﻿92168152011,Escola Universitària de Turisme Mediterrani,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38032828005064,2.1521728300012533
+970,﻿99400476926,Escola Doctor Robert,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41241548884079,2.175758708562362
+971,﻿92168166373,Centre Educatiu Aloma,45.0,Porta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43211854935919,2.178235937580513
+974,﻿93117132919,Centre Educatiu FEP Mare de Déu del Roser,22.0,"Vallvidrera, el Tibidabo i les Planes",5.0,Sarrià-Sant Gervasi,"Educació primària, Educació secundària",41.42811488604095,2.092265187553753
+976,﻿94102135909,Escola Universitària Salesiana de Sarrià,24.0,les Tres Torres,5.0,Sarrià-Sant Gervasi,Universitats,41.394938605535096,2.1278275709059584
+977,﻿94102141953,Facultat de Matemàtiques i Estadística - UPC,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38387760418612,2.113464402113061
+978,﻿75990021777,Centre Educatiu Josep Tous,17.0,Sants - Badal,3.0,Sants-Montjuïc,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.37498574384314,2.1292274833826714
+982,﻿99400224511,Institut de Química Avançada de Catalunya,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38770673949005,2.114945140444898
+983,﻿1081085606,Escola Superior de Música de Catalunya,5.0,el Fort Pienc,2.0,Eixample,Música,41.39877242493477,2.185159128100962
+984,﻿92168165391,Centre Educatiu Jesuïtes Poble Sec - Sant Pere Claver,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.372960637940906,2.173443171213383
+986,﻿92168165406,Escola Joaquim Ruyra,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41103665618324,2.214801739892089
+988,﻿92168165413,Escola Josep Maria de Sagarra,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.41930893643119,2.1398716950913936
+990,﻿75990427823,Centre Educatiu Cazcarra,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Formació professional,41.38699675177127,2.1504054511116943
+991,﻿92168165419,Institut Caterina Albert,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,Educació secundària,41.4102777353725,2.1831236440038606
+992,﻿92168165487,Centre Educatiu San Nicolas,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.396469231819495,2.163574289740056
+995,﻿75990263496,UPF Barcelona School of Management,7.0,la Dreta de l'Eixample,2.0,Eixample,Universitats,41.39367460713546,2.1571085522357336
+996,﻿75990171668,Centre Educatiu Sant Ferran,51.0,Verdun,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.44252248703984,2.175293260840168
+999,﻿93048101618,Elisava Escola Universitaria de Disseny i Enginyeria de Barcelona,2.0,el Barri Gòtic,1.0,Ciutat Vella,Universitats,41.37848959636991,2.176064541270459
+1000,﻿99400157897,Centre Educatiu Eixample Clínic,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Formació professional,41.387813232150094,2.163425597556379
+1001,﻿75990669728,Escola de Música Diesi,18.0,Sants,3.0,Sants-Montjuïc,Música,41.375173026204166,2.1315050602672234
+1002,﻿92086008029,Centre Educatiu Maristes La Immaculada,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.39863993675948,2.172196729097524
+1006,﻿92086008085,Centre Educatiu Súnion,27.0,el Putxet i el Farró,5.0,Sarrià-Sant Gervasi,Educació secundària,41.41062322568538,2.145631700292357
+1007,﻿75990147948,Escola de Música de Barcelona,7.0,la Dreta de l'Eixample,2.0,Eixample,"Música, Universitats",41.398186674556,2.1684979299949103
+1009,﻿92086013879,AF Centre d'Estudis,7.0,la Dreta de l'Eixample,2.0,Eixample,Formació professional,41.38829698856082,2.1724489516070866
+1010,﻿92086013939,Artmusic Escola de Música i Dansa,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Música,41.37886075129567,2.153592988925036
+1011,﻿92086009951,Facultat de Ciències de la Terra - UB,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38437037725497,2.1197216758551365
+1012,﻿92086010028,Escola Tècnica Superior d'Enginyeria Industrial de Barcelona - UPC,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38489994951897,2.115249564660417
+1013,﻿99400155173,Institut de Govern i Polítiques Públiques,47.0,Can Peguera,8.0,Nou Barris,Universitats,41.43634697822765,2.1649198810016106
+1014,﻿75990099722,Centre Educatiu Sagrada Família-Horta,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42662276188083,2.1627221855780103
+1017,﻿75990118960,Centre Educatiu Montserrat *Cros,18.0,Sants,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.37473782582017,2.1379630254323323
+1020,﻿92168166024,Centre Educatiu Sadako,28.0,Vallcarca i els Penitents,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41796975213169,2.134125348349872
+1023,﻿92168166025,Centre Educatiu Sagrada Família *Arquímedes,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.438838508624976,2.1862576644029867
+1026,﻿92168166028,Escola Sagrada Família *Sardenya,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,"Ensenyament infantil (3-6 anys), Educació primària",41.40474390341396,2.171097339253699
+1028,﻿92086038561,Escola de Música Esclat *Les Corts,19.0,les Corts,4.0,Les Corts,Música,41.38130651966432,2.131046330671979
+1029,﻿92086028831,Institut Ferran Tallada,37.0,el Carmel,7.0,Horta-Guinardó,"Educació secundària, Formació professional",41.42074691765374,2.164185401705772
+1031,﻿92168176525,Centre Educatiu Sant Joan Bosco,41.0,la Vall d'Hebron,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43569896200111,2.14956193227801
+1034,﻿92086029867,Institut Ernest Lluch,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Educació secundària,41.378493776815,2.1510066981241054
+1035,﻿92086014772,Rectorat,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38939609467136,2.1174732071947022
+1036,﻿92086005081,Institut Infanta Isabel d'Aragó,72.0,Sant Martí de Provençals,10.0,Sant Martí,Educació secundària,41.4162271594885,2.199376139428101
+1037,﻿355142528,Rectorat,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.41503478757256,2.1330244628789514
+1038,﻿356131233,Rectorat,2.0,el Barri Gòtic,1.0,Ciutat Vella,Universitats,41.37918855482344,2.1796371516071704
+1039,﻿99400672540,CaixaResearch Institute,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.41435785259003,2.130240491008415
+1040,﻿99400145407,Centre de Recerca de Biodiversitat Vegetal,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38537847387165,2.1170443890573285
+1041,﻿99400145500,Centre de Recerca en Economia i Salut,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38924681822701,2.190983335170805
+1042,﻿92086005165,Institut Bernat Metge,73.0,la Verneda i la Pau,10.0,Sant Martí,Educació secundària,41.42320853195699,2.201617633346536
+1043,﻿75990089052,Centre Educatiu Monlau,61.0,la Sagrera,9.0,Sant Andreu,"Adults, Educació secundària, Formació professional",41.42299752907012,2.1906007422317457
+1046,﻿99400145219,Celltec UB,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.385512630617775,2.1170608728931914
+1047,﻿99400145265,Centre de Biotecnología,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38476479287836,2.117283075395298
+1048,﻿75990349531,Escola musicwood,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Música,41.38540607900917,2.153436370877391
+1049,﻿92086030919,Institut Doctor Puigvert,60.0,Sant Andreu,9.0,Sant Andreu,Educació secundària,41.44609494511821,2.193284142268708
+1050,﻿75990333972,Centre Educatiu FEP Santa Teresa de Lisieux,19.0,les Corts,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38827496816367,2.1348326553076955
+1053,﻿92168164507,Escola Baloo,40.0,Montbau,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.43115750298306,2.1393662445875514
+1055,﻿92168164557,Centre Educatiu Betània-Patmos,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39658018708053,2.109773851076433
+1059,﻿92168164612,Escola Can Clos,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.360791224941885,2.147577249482873
+1061,﻿92168164628,Centre Educatiu Abat Oliba-Spínola,33.0,el Baix Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4155970334086,2.167842326406948
+1064,﻿92168164632,Escola Poble-sec,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37056356364924,2.1652509108680995
+1066,﻿92168164646,Escola de Música Casa Sors,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Música,41.39956381498723,2.1479668924856843
+1067,﻿99400156856,Centre Educatiu Comercial Català,57.0,la Trinitat Vella,9.0,Sant Andreu,Formació professional,41.452497956189845,2.193738158418465
+1068,﻿93005164237,Centre Educatiu FEDAC-Sant Andreu,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43235540730775,2.1916087698448923
+1071,﻿75990016466,Centre Educatiu Lestonnac,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.39286643733439,2.1668080403042533
+1075,﻿75990121783,Centre Educatiu Miguel Griñó,10.0,Sant Antoni,2.0,Eixample,Formació professional,41.37820659398508,2.16016213696156
+1076,﻿99400084474,Institut Universitari de Salut Mental Vidal i Barraquer -URL,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40623496924468,2.135465235192039
+1077,﻿75990090396,Centre Educatiu Fundació de Restauració i Hostalatge,69.0,Diagonal Mar i el Front Marítim del Poblenou,10.0,Sant Martí,Formació professional,41.404315955153926,2.2114791383359984
+1078,﻿333091852,Escola d'Enginyeria *Campus de la Comunicació-Poblenou - UPF,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Universitats,41.40370084245801,2.1935644022467757
+1079,﻿92086013615,Centre de Recerca en Estudi de les Dones (UB),20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.382264473514816,2.115536952946174
+1080,﻿92086007286,Institut Sants,18.0,Sants,3.0,Sants-Montjuïc,Educació secundària,41.38134760557549,2.139683301418125
+1081,﻿92168164665,Escola Cavall Bernat,16.0,la Bordeta,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37105966126944,2.131943869848651
+1083,﻿92168164680,Centre d'Estudis Catalunya,1.0,el Raval,1.0,Ciutat Vella,Formació professional,41.38538035411637,2.168028055159484
+1084,﻿92168164783,Escola Concepción Arenal,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41748796078941,2.2153340767827068
+1086,﻿92086008788,Rectorat,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+1087,﻿322114546,Facultat de Ciències de la Salut i de la Vida - UPF,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.38380280064488,2.194022822191066
+1088,﻿93097124157,Centre Educatiu Prat *Roger de Llúria,7.0,la Dreta de l'Eixample,2.0,Eixample,"Adults, Formació professional",41.39520763188711,2.1653250520227867
+1090,﻿93097142001,Centre Educatiu Mare de Déu del Roser,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38488318415155,2.1585095446926874
+1093,﻿75990067136,Centre Educatiu Zurich,21.0,Pedralbes,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39356150207276,2.104436841139324
+1096,﻿75990040205,Centre Educatiu FEP Sant Ramon Nonat,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.375937935729695,2.116316955865797
+1099,﻿75990398822,Centre Educatiu Pérez Iborra,7.0,la Dreta de l'Eixample,2.0,Eixample,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38950745987772,2.1634028611920457
+1103,﻿75990364530,Centre Educatiu Augusta,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.396831802754384,2.141609039599671
+1106,﻿92086018018,Centre Educatiu Ceir Arco *Aragó,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Formació professional,41.38455590381453,2.15404495075919
+1107,﻿99400694581,Facultat d'Economia i Empresa - UPF,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.38999655307027,2.190858671693975
+1108,﻿92086002054,Facultat de Dret - UB,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38723971871468,2.1210972500110508
+1109,﻿99400685573,Escola de Disseny i Patronatge Guerrero,6.0,la Sagrada Família,2.0,Eixample,Formació professional,41.400641970986406,2.174598943365025
+1110,﻿94082171216,Facultat de Comunicació i Relacions Internacionals Blanquerna - URL,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38357176529572,2.1662962367757026
+1111,﻿92086005677,Institut Pablo Ruiz Picasso,54.0,Torre Baró,8.0,Nou Barris,Educació secundària,41.4599860460389,2.181027159499905
+1112,﻿92168165030,Escola L'Estel,61.0,la Sagrera,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.41919815851105,2.1888019330265163
+1114,﻿92168165115,Escola Àgora,48.0,la Guineueta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.43750657714406,2.168693351156339
+1116,﻿92168165148,Escola Francesc Macià,15.0,Hostafrancs,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37441159174069,2.147849686428624
+1118,﻿92168165171,Escola Gayarre,16.0,la Bordeta,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37295793070322,2.140566150581172
+1120,﻿92168165237,Escola Heura,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.427081202858616,2.163768950228317
+1122,﻿92168165271,Centre Educatiu Immaculada Concepció *Granollers,43.0,Horta,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42793467462142,2.161722780855084
+1125,﻿92168164924,Institut Escola Projecte,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41167071799197,2.1361958755724104
+1128,﻿92168164930,Escola El Carmel,37.0,el Carmel,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària",41.42339755249099,2.154230943364157
+1130,﻿92168164951,Escola el Sagrer,61.0,la Sagrera,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.42201944158713,2.1895804784443302
+1132,﻿92168164962,Escola Elisenda de Montcada,55.0,Ciutat Meridiana,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.461698304967285,2.179530074860736
+1134,﻿92168164980,Escola Mestre Enric Gibert i Camins,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.43143015149511,2.185746238260647
+1136,﻿92168164981,Escola Enric Granados,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.3568603392368,2.141741740411545
+1138,﻿92168164995,Institut  Escola del Treball,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Formació professional,41.38795885151004,2.14824894371729
+1139,﻿93180115531,Centre Informàtica i Recerca,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38132376004671,2.1262516820863997
+1140,﻿92086010037,"Escola Tècnica Superior d'Enginyers de Camins, Canals i Ports - UPC",21.0,Pedralbes,4.0,Les Corts,Universitats,41.38994831282826,2.115393722114865
+1141,﻿92086007892,Escola d'Aprenents SEAT,12.0,la Marina del Prat Vermell,3.0,Sants-Montjuïc,Formació professional,41.35443340782173,2.142929012130741
+1142,﻿99400321973,Escola per a Infants i Adolescents,13.0,la Marina de Port,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.36549941267988,2.139637719083576
+1145,﻿99400254924,Escola Business Engineering School - la Salle,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40890993792351,2.1311370586996183
+1146,﻿99400322343,Escola per a Infants i Adolescents de l'Hospital de Dia Clínic,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38914826078086,2.151784715500113
+1149,﻿99400427060,Escola Entença,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.38234825683264,2.144850724412862
+1151,﻿99400487350,Centre Universitari EAE,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Universitats,41.37959519989804,2.144118148280011
+1152,﻿99400427063,Institut Maria Espinalt,68.0,el Poblenou,10.0,Sant Martí,Educació secundària,41.40616928378711,2.202749541771861
+1153,﻿99400427064,Escola  Els 30 Passos,61.0,la Sagrera,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.4237364088405,2.1919519735502955
+1155,﻿99400684565,IEM - Institut d'Estudis Mèdics,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Formació professional,41.3913621243985,2.199925991960716
+1156,﻿99400576841,Constelaciones,,,,,Universitats,-0.0010942582961042,-1.4894678076317491
+1157,﻿93096121636,Centre Educatiu Ramon Llull,62.0,el Congrés i els Indians,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42068244817662,2.1818416169469894
+1160,﻿92168177308,Universitat Politècnica de Catalunya,21.0,Pedralbes,4.0,Les Corts,Universitats,41.3889419870853,2.116537839859507
+1161,﻿1330172216,Observatori del Tibet i l'Àsia Central,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38549197752809,2.119168154034765
+1162,﻿92356131953,Escola Marinada,48.0,la Guineueta,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.4407764597551,2.169660039047101
+1164,﻿93078141703,Centre Educatiu Santa Teresa de Jesús *Llobregós,37.0,el Carmel,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42424369018471,2.1557717583087483
+1167,﻿93081131447,Institut Escola Londres,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39105918370662,2.1470559524530706
+1170,﻿92168166020,Centre Educatiu Lleó XIII,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària, Formació professional",41.4125162622214,2.1370978313480578
+1174,﻿75990101587,Centre Educatiu Euroaula,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,"Formació professional, Universitats",41.38769707709447,2.1591812849139447
+1176,﻿75990362443,Centre Educatiu Roca,61.0,la Sagrera,9.0,Sant Andreu,"Educació secundària, Formació professional",41.42184965206082,2.186428239062364
+1178,﻿75990128073,Centre Educatiu Urgell,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38606409723271,2.153147381263221
+1181,﻿354174913,Escola,21.0,Pedralbes,4.0,Les Corts,Universitats,41.39041020339857,2.11279079824562
+1182,﻿355134317,Universitat Internacional de Catalunya,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.406033260654574,2.123231960089889
+1183,﻿356094623,Rectorat i Serveis Centrals,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.41187688269559,2.131008959069784
+1184,﻿99400690794,Institut de Logística de Barcelona,1.0,el Raval,1.0,Ciutat Vella,Formació professional,41.37177162422885,2.18076567497882
+1185,﻿99400690808,Centre Educatiu Centre de Formació CET10,72.0,Sant Martí de Provençals,10.0,Sant Martí,Formació professional,41.417712371205,2.201996226446881
+1186,﻿98292083343,Centre Educatiu Stucom Còrsega – Sant Francesc,31.0,la Vila de Gràcia,6.0,Gràcia,"Educació secundària, Formació professional",41.40028538275055,2.164108103718178
+1188,﻿99400694727,Institut de Neurociències,40.0,Montbau,7.0,Horta-Guinardó,Universitats,41.43571773604589,2.1471458631506635
+1189,﻿99400073694,Centre de Postgrau de les EUTSES,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Universitats,41.39559126396927,2.1457682502398017
+1190,﻿99400062501,"Grup de Recerca Treballs, Institucions i Gènere",1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38403193047776,2.167331566974877
+1191,﻿99400075757,Escola Fructuós Gelabert,6.0,la Sagrada Família,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.40609276031637,2.170317488069076
+1193,﻿75990426975,Centre Educatiu Maristes Anna Ravell,11.0,el Poble-sec,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.37207561836441,2.1617285392182004
+1196,﻿75990074681,Escuela Superior Europea de Comercio,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Universitats,41.38542389747293,2.177197587197863
+1197,﻿99400145670,Laboratori d’Electroquímica de Materials i del Medi Ambient,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38476479287836,2.117283075395298
+1198,﻿99400145684,Unitat de Recerca Institut Barraquer,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Universitats,41.39738463256767,2.1462760581798173
+1199,﻿99400055290,Institut Universitari Barraquer,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Universitats,41.39738463256767,2.1462760581798173
+1200,﻿98125165447,Escola Tècnica Superior d'Arquitectura La Salle - URL,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.40944167227188,2.1300561885083784
+1201,﻿99400667201,Centre d'Estudis Australians i Transnacionals,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657819473568,2.1640174812800828
+1202,﻿75990068951,Centre Educatiu Decroly,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària",41.41064924510799,2.133711244580684
+1205,﻿150121418,Institut Hospital del Mar d'Investigacions Mèdiques,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.38557664189982,2.1940174451357706
+1206,﻿75990051854,Centre Educatiu Centre Català Comercial,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,Formació professional,41.42881245670496,2.1768330194861587
+1207,﻿92086034264,Universitat Ramon Llull,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.41187688269559,2.131008959069784
+1208,﻿99400322565,Escola per a Adolescents,51.0,Verdun,8.0,Nou Barris,Educació secundària,41.44298880234272,2.175021416842057
+1209,﻿92086008787,Universitat de Barcelona,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38657708352391,2.164030568391206
+1210,﻿92168164581,Secció d'Institut Bosc de Montjuïc,11.0,el Poble-sec,3.0,Sants-Montjuïc,Educació secundària,41.368858795342405,2.1611311506337145
+1211,﻿92168164582,Escola Brasil,71.0,Provençals del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41622200170397,2.204839282961313
+1213,﻿92168164601,Escola La Caixa,72.0,Sant Martí de Provençals,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.41729122838103,2.2030539455792635
+1215,﻿92168164605,Centre Educatiu Escolàpies Sant Martí - Barcelona,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.4123959772303,2.181658601038992
+1218,﻿92168164607,Escola Calderón de la Barca,46.0,el Turó de la Peira,8.0,Nou Barris,"Ensenyament infantil (3-6 anys), Educació primària",41.43370664300266,2.171537082957821
+1220,﻿75990263456,Centre Educatiu Loreto - Abat Oliba,21.0,Pedralbes,4.0,Les Corts,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39363680080199,2.107304004598997
+1224,﻿99103085510,Centre d'Investigació i Desenvolupament,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38768359483976,2.1149246884095305
+1225,﻿92168166380,Centre Educatiu Voramar,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39593332114146,2.1982237224730143
+1228,﻿98020180502,Centre Educatiu Magòria,14.0,la Font de la Guatlla,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37155495210272,2.1457222177556883
+1230,﻿98078095826,Centre Educatiu Grèvol,69.0,Diagonal Mar i el Front Marítim del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40512883427549,2.2115272743841814
+1233,﻿99400177193,Escola Fluvià,69.0,Diagonal Mar i el Front Marítim del Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.40706157632974,2.207122795296649
+1235,﻿99400694725,Institut de Nanociència i Nanotecnologia,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.385348173780805,2.117024113014179
+1236,﻿99400673218,Escola de Música Sona Espai Musical,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Música,41.385814964802535,2.1845697917712625
+1237,﻿99400673257,Institut dels Aliments de Barcelona,12.0,la Marina del Prat Vermell,3.0,Sants-Montjuïc,Formació professional,41.33118067913596,2.114201881404796
+1238,﻿99400322968,Centre Educatiu Formación Empresarial Dual Alemana - Barcelona,6.0,la Sagrada Família,2.0,Eixample,Formació professional,41.40833485857838,2.179464197836513
+1239,﻿99400319717,Escola per a Infants i Adolescents,3.0,la Barceloneta,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38343360981442,2.1946836219941206
+1242,﻿99400614167,InnoBA - Centre per a la Innovació Socioeconòmica,71.0,Provençals del Poblenou,10.0,Sant Martí,Universitats,41.40708782279075,2.1944900638727214
+1243,﻿99400574320,Centre Educatiu Sant Joan de Déu,21.0,Pedralbes,4.0,Les Corts,Formació professional,41.3911041816596,2.111560842144092
+1244,﻿99400694564,Escola de Doctorat - UB,10.0,Sant Antoni,2.0,Eixample,Universitats,41.3848559676168,2.162636789031969
+1245,﻿92168165490,Escola La Muntanyeta,14.0,la Font de la Guatlla,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37051047936723,2.148206192156628
+1247,﻿92168165492,Escola La Palmera,73.0,la Verneda i la Pau,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.42024045881369,2.204341821626755
+1249,﻿92168165508,Institut La Sedeta,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,Educació secundària,41.40504776146469,2.168204685309836
+1250,﻿92168165555,Escola Lluís Vives,17.0,Sants - Badal,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària",41.37186290045591,2.1280851779733574
+1252,﻿92168165559,Escola Les Acàcies,68.0,el Poblenou,10.0,Sant Martí,"Ensenyament infantil (3-6 anys), Educació primària",41.40417588374946,2.204255171160297
+1254,﻿99400264732,Institut Quatre Cantons,68.0,el Poblenou,10.0,Sant Martí,Educació secundària,41.40462557967737,2.200693579080881
+1255,﻿99400676991,Centre de Formació Professional Cruïlla,54.0,Torre Baró,8.0,Nou Barris,"Adults, Formació professional",41.459583794975394,2.1805581491479247
+1257,﻿75990002051,Escola Professional Salesiana - Salesians de Sarrià,24.0,les Tres Torres,5.0,Sarrià-Sant Gervasi,Formació professional,41.394938605535096,2.1278275709059584
+1258,﻿99400429409,Centre Superior de Música Jam Session,14.0,la Font de la Guatlla,3.0,Sants-Montjuïc,Música,41.37077798959263,2.148871812723897
+1259,﻿99400448884,Escola Municipal de Música Can Fargues,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,Música,41.42740995854969,2.1648645446248787
+1260,﻿75990052603,Centre Educatiu Santíssima Trinitat,21.0,Pedralbes,4.0,Les Corts,"Educació secundària, Formació professional",41.38976386527317,2.109020646204132
+1262,﻿75990095933,Escola Universitària de Turisme CETA,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38034947242665,2.1489708474391604
+1263,﻿99400495849,Escola Superior d'Infermeria del Mar,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.381731265825465,2.1918056817245497
+1264,﻿99400496037,Facultat d'Educació - UIC,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Universitats,41.40682006692788,2.1211285739692523
+1265,﻿99400281026,Grup de Recerca sobre Exclusió i Control Socials. UB,1.0,el Raval,1.0,Ciutat Vella,Universitats,41.38407718499735,2.166899934194828
+1266,﻿75990025727,Centre Educatiu Sant Gregori,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.41244844137116,2.1251917132815983
+1269,﻿99400576970,Institut Joncar,68.0,el Poblenou,10.0,Sant Martí,Educació secundària,41.40140488846787,2.204542879960712
+1270,﻿99400219598,Centre Superior de Música Liceu,1.0,el Raval,1.0,Ciutat Vella,Música,41.376083367668606,2.1710306460576123
+1271,﻿75990098691,Centre Educatiu Sant Pau,21.0,Pedralbes,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.39200999937116,2.1051063522170472
+1274,﻿75990117837,Escola de Música Farré,18.0,Sants,3.0,Sants-Montjuïc,Música,41.37927459385171,2.136181343415099
+1275,﻿75990148228,Centre Educatiu Estudis Financers,31.0,la Vila de Gràcia,6.0,Gràcia,Formació professional,41.40332953330452,2.1521071038520323
+1276,﻿99400487158,Escola de Noves Tecnologies Interactives,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,"Formació professional, Universitats",41.38204283414085,2.116362046391724
+1278,﻿75990135841,Centre Educatiu Castro de la Peña,35.0,el Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.417036487958,2.175834829481162
+1282,﻿1079155038,Escola Municipal de Música  Can Ponsic,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Música,41.39694239351858,2.11878940731059
+1283,﻿75990099226,Centre Educatiu Santa Maria dels Apòstols,70.0,el Besòs i el Maresme,10.0,Sant Martí,"Educació primària, Educació secundària, Formació professional",41.41833150293345,2.210645258219172
+1286,﻿99400449595,Centro Universitario Internacional de Barcelona,,,,,Universitats,-0.0010942582961042,-1.4894678076317491
+1287,﻿75990169953,Centre d'Estudis Politècnics,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,"Adults, Educació secundària, Formació professional",41.38872684298498,2.173287528479757
+1290,﻿75990103551,Institut Escola Sicília,6.0,la Sagrada Família,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40295641282609,2.1715275972661776
+1293,﻿99400284569,Escola Congrés-Indians,61.0,la Sagrera,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària",41.42524649826285,2.1893636167955752
+1295,﻿99400694644,Facultat Internacional de Comerç i Economia Digital La Salle - URL,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.407921109691735,2.13011876510642
+1296,﻿75990212122,Institut de Recerca Sant Pau - Centre CERCA,35.0,el Guinardó,7.0,Horta-Guinardó,Universitats,41.41375025072343,2.177271688141024
+1297,﻿24085910,Institut Lluís Vives,17.0,Sants - Badal,3.0,Sants-Montjuïc,Educació secundària,41.37186290045591,2.1280851779733574
+1298,﻿75990334123,Escola de Música Pausa,36.0,la Font d'en Fargues,7.0,Horta-Guinardó,Música,41.426245461581225,2.169096663093005
+1299,﻿75990292021,Centre Educatiu Proa,16.0,la Bordeta,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.371504344790274,2.140028600937792
+1302,﻿99400620283,Institut Escola Arts,15.0,Hostafrancs,3.0,Sants-Montjuïc,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.3758228225092,2.1424059467049545
+1305,﻿92086003527,Facultat de Medicina i Ciències de la Salut - UB,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.38955539831457,2.152194463242196
+1306,﻿99400479447,Escola Xirinacs,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.38346648370963,2.145384672271731
+1308,﻿99400479515,Escola Gaia,6.0,la Sagrada Família,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària",41.40376075012159,2.182749609693285
+1310,﻿99400417811,Escola de Perruqueria Miguel Griñó,10.0,Sant Antoni,2.0,Eixample,Formació professional,41.37820559348554,2.1601608104554217
+1311,﻿75990170841,St. Peter's School,21.0,Pedralbes,4.0,Les Corts,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38864051984496,2.1060053781551
+1315,﻿75990674774,Escola de Música Sant Gervasi,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Música,41.4085129090134,2.1353190059601315
+1316,﻿75990099889,Centre Educatiu Bemen 3,44.0,Vilapicina i la Torre Llobeta,8.0,Nou Barris,Formació professional,41.428063673597705,2.171791601093148
+1317,﻿75990488467,"BAU, Centre Universitari d'Arts i Disseny de Barcelona",68.0,el Poblenou,10.0,Sant Martí,Universitats,41.39772635565731,2.195641449471245
+1318,﻿75990409897,EINA - Escola de Disseny i Art,23.0,Sarrià,5.0,Sarrià-Sant Gervasi,Universitats,41.40287986302204,2.114333805752234
+1319,﻿75990171094,Centre Educatiu John Talabot,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.40646961208439,2.125237416308632
+1322,﻿75990160243,Fundació Centre Internacional d'Hidrologia Subterrània,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Universitats,41.3850174532252,2.148754190172375
+1323,﻿75990116872,Centre Villar,31.0,la Vila de Gràcia,6.0,Gràcia,Formació professional,41.40691741937064,2.153183265276704
+1324,﻿75990172176,Centre Educatiu Mediterrani,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Formació professional,41.38032828005064,2.1521728300012533
+1325,﻿355134447,Rectorat,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.406033260654574,2.123231960089889
+1326,﻿75990263515,Virtèlia Escola de Música,26.0,Sant Gervasi - Galvany,5.0,Sarrià-Sant Gervasi,Música,41.3975214368197,2.138675502909632
+1327,﻿92086002008,Facultat de Química - UB,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38476479287836,2.117283075395298
+1328,﻿75990169560,Centre Educatiu Arts i Tècniques de la Moda,7.0,la Dreta de l'Eixample,2.0,Eixample,Formació professional,41.39456362581112,2.1724060683481343
+1329,﻿74093138,Centre Educatiu Sant Antoni Maria Claret,61.0,la Sagrera,9.0,Sant Andreu,Formació professional,41.42104940347093,2.1874125121201167
+1330,﻿99400063407,Centre Educatiu Lloret,18.0,Sants,3.0,Sants-Montjuïc,"Ensenyament infantil (0-3 anys), Ensenyament infantil (3-6 anys), Educació primària",41.375324368565366,2.135681179303301
+1333,﻿75990040207,Centre Educatiu Sant Ramon Nonat-Sagrat Cor,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.375937935729695,2.116316955865797
+1336,﻿99400071652,Parc de Recerca Biomèdica de Barcelona,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.38557632373501,2.194017030461737
+1337,﻿99400660601,Centre d'Educació Monlausports,59.0,el Bon Pastor,9.0,Sant Andreu,Formació professional,41.44334056808705,2.205369209637348
+1338,﻿99400033884,Escola de Música Gymúsic,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,Música,41.41182469172306,2.177953947273433
+1339,﻿99400071112,Centre per a la Iniciativa Emprenedora Glòries,71.0,Provençals del Poblenou,10.0,Sant Martí,Universitats,41.406538009549216,2.1924314247390777
+1340,﻿75990334107,Escola de Música de Gràcia,31.0,la Vila de Gràcia,6.0,Gràcia,Música,41.40440967867672,2.158550366121792
+1341,﻿75990064070,Escola Universitària Formàtic Barcelona,7.0,la Dreta de l'Eixample,2.0,Eixample,"Formació professional, Universitats",41.39352914679206,2.1627526891917705
+1343,﻿27113254,Escola de Música Sant Josep,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,Música,41.405251173903096,2.1653537753375733
+1344,﻿75990049345,Centre Educatiu Guinardó,35.0,el Guinardó,7.0,Horta-Guinardó,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.42003426194498,2.1789087682115302
+1347,﻿68155924,Equip de Seguretat per a la Coordinació d'Emergències en Xarxes Telemàtiques,21.0,Pedralbes,4.0,Les Corts,Universitats,41.38790151896208,2.1146704334958524
+1348,﻿172133754,Escola de Música Musicant,64.0,el Camp de l'Arpa del Clot,10.0,Sant Martí,Música,41.41675751175242,2.183652519591849
+1349,﻿99400596562,Consorci Institut d'Investigacions Biomèdiques August Pi i Sunyer,8.0,l'Antiga Esquerra de l'Eixample,2.0,Eixample,Universitats,41.3887243891526,2.151034730432242
+1350,﻿99400694711,Institut de Biologia Evolutiva,3.0,la Barceloneta,1.0,Ciutat Vella,Universitats,41.3855652876679,2.193994059378719
+1351,﻿75990008599,Centre Educatiu IPSI,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.38686117014667,2.149917369654088
+1354,﻿99400707255,Institut Vallcarca,28.0,Vallcarca i els Penitents,6.0,Gràcia,Educació secundària,41.41709892852106,2.141460201600079
+1355,﻿75990059842,Escola de Música Allegretto - Gràcia,32.0,el Camp d'en Grassot i Gràcia Nova,6.0,Gràcia,Música,41.40764303949543,2.1633766587038155
+1356,﻿75990107120,Escola de Música Taller de Músics,1.0,el Raval,1.0,Ciutat Vella,Música,41.37973318249821,2.1640647648156945
+1357,﻿99400690822,University for Technology and Design Harbour Space,67.0,la Vila Olímpica del Poblenou,10.0,Sant Martí,Universitats,41.39036893615914,2.196931674574192
+1358,﻿99400604864,Escola de Música Allegretto - Poblenou,68.0,el Poblenou,10.0,Sant Martí,Música,41.40587748061788,2.1980966470781773
+1359,﻿99400694631,Facultat de Medicina i Ciències de la Salut - UIC,25.0,Sant Gervasi - la Bonanova,5.0,Sarrià-Sant Gervasi,Universitats,41.406033260654574,2.123231960089889
+1360,﻿99400694560,Centre de Formació i Interdisciplinària Superior,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Universitats,41.38357497214681,2.115743968153055
+1361,﻿99400648272,Institut Escola Rec Comtal,57.0,la Trinitat Vella,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.45127867525017,2.1919238393338296
+1364,﻿99400648279,Institut Vapor del Fil,60.0,Sant Andreu,9.0,Sant Andreu,Educació secundària,41.43364461764519,2.1923518346118622
+1365,﻿99400701039,Biomimetic Sciences Institute,71.0,Provençals del Poblenou,10.0,Sant Martí,Universitats,41.406214481993096,2.1958947765216155
+1366,﻿99400682737,Escola d'Educació Musical i Visual Beeslab,18.0,Sants,3.0,Sants-Montjuïc,Música,41.38217914879073,2.137759205767059
+1367,﻿99400713790,Institut Escola Sant Felip Neri,2.0,el Barri Gòtic,1.0,Ciutat Vella,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.383399685180855,2.174943737830604
+1370,﻿99400708055,Escola de Música Aula Compàs,20.0,la Maternitat i Sant Ramon,4.0,Les Corts,Música,41.377673470759206,2.1123406665102977
+1371,﻿99400707955,Institut TIC de Barcelona,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Formació professional,41.40267993266015,2.1944666095628262
+1372,﻿99400706771,Centre Educatiu Barcelona Vitae Nou Barris,45.0,Porta,8.0,Nou Barris,Formació professional,41.435431633542514,2.1800941010622124
+1373,﻿99400720328,Institut de Tècniques Audiovisuals i de l’Espectacle de BCN,66.0,el Parc i la Llacuna del Poblenou,10.0,Sant Martí,Formació professional,41.40197746379566,2.194174409997845
+1374,﻿99400726965,UPC School of Professional & Executive Development,68.0,el Poblenou,10.0,Sant Martí,Universitats,41.39777010306742,2.1963775059617454
+1375,﻿99400727830,Centre Educatiu Vedruna Pro - Escola Superior d'Hosteleria,31.0,la Vila de Gràcia,6.0,Gràcia,Formació professional,41.40487385740601,2.1512582458050145
+1376,﻿99400728427,Institut Escola Vapor i Molí *Centre de nova creació curs 24-25,60.0,Sant Andreu,9.0,Sant Andreu,"Ensenyament infantil (3-6 anys), Educació primària, Educació secundària",41.43879951258036,2.1895281742745585
+1379,﻿99400721646,Centre Educatiu d'Hostelería Hofmann,4.0,"Sant Pere, Santa Caterina i la Ribera",1.0,Ciutat Vella,Formació professional,41.38414145193036,2.181356251429076
+1380,﻿99400726632,Centre Educatiu DigitechFP,9.0,la Nova Esquerra de l'Eixample,2.0,Eixample,Formació professional,41.37921383504241,2.1519908150787197
+1381,﻿99400720445,Centre Educatiu ESEP,19.0,les Corts,4.0,Les Corts,"Adults, Formació professional",41.38306732397128,2.1364907523512
